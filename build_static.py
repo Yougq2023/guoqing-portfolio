@@ -7,7 +7,7 @@ from PIL import Image
 
 SITE_ROOT = Path(__file__).resolve().parent
 MEDIA_ROOT = Path(r"H:\作品集")
-DIST_DIR = SITE_ROOT / "dist"
+DIST_DIR = SITE_ROOT / "docs"
 DIST_MEDIA = DIST_DIR / "media"
 VIDEO_LINKS_FILE = SITE_ROOT / "video-links.json"
 
