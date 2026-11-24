@@ -350,24 +350,24 @@ function buildPortfolioPayload() {
     {
       id: "binjiang-1983",
       index: "09",
-      title: "广州滨江尚都 · 船台 1983（空屿洲）全案",
+      title: "广州滨江上都 · 船台 1983（空屿洲）全案",
       subtitle: "Heritage Renewal Brand VI / Dual System",
       categories: ["brand"],
       categoryLabel: "品牌 / 平面",
       year: "2025",
       span: "wide",
-      client: "广州滨江尚都",
+      client: "广州滨江上都",
       role: "品牌视觉主创",
       summary:
-        "融合工业船台历史文脉与当代滨江艺文气息，统筹“船台 1983 / 空屿洲”与“滨江尚都”双线视觉体系，累计沉淀 57 张完整视觉设计作品。",
+        "融合工业船台历史文脉与当代滨江艺文气息，统筹“船台 1983 / 空屿洲”与“滨江上都”双线视觉体系，累计沉淀 57 张完整视觉设计作品。",
       highlights: [
-        "船台 1983（空屿洲）23 张特色文脉视觉 + 滨江尚都 34 张全案 VI",
+        "船台 1983（空屿洲）23 张特色文脉视觉 + 滨江上都 34 张全案 VI",
         "在历史厚重感与现代先锋审美间找到精准平衡"
       ],
       tools: ["Illustrator", "InDesign", "Photoshop"],
       media: collect({
-        dirs: ["05_品牌平面VI\\03_广州滨江尚都\\船台1983-空屿洲VI", "05_品牌平面VI\\03_广州滨江尚都\\滨江尚都VI"],
-        preferCover: "05_品牌平面VI\\03_广州滨江尚都\\船台1983-空屿洲VI\\空屿洲VI-02.jpg"
+        dirs: ["05_品牌平面VI\\03_广州滨江上都\\船台1983-空屿洲VI", "05_品牌平面VI\\03_广州滨江上都\\滨江上都VI"],
+        preferCover: "05_品牌平面VI\\03_广州滨江上都\\船台1983-空屿洲VI\\空屿洲VI-02.jpg"
       })
     },
     {
