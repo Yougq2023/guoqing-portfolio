@@ -80,7 +80,7 @@
   } catch {
     isStaticMode = true;
     try {
-      const res = await fetch("./portfolio-data.json");
+      const res = await fetch(`./portfolio-data.json?t=${Date.now()}`, { cache: "no-store" });
       const data = await res.json();
       featuredProjects = data.featured || [];
       archiveProjects = data.archive || [];
@@ -247,7 +247,7 @@
 
     function renderVideoItem(v) {
       if (v.embedUrl) {
-        videoStage.innerHTML = `<iframe src="${v.embedUrl}" scrolling="no" frameborder="0" allowfullscreen="true" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts allow-popups" style="width:100%;height:100%;border:0;"></iframe>`;
+        videoStage.innerHTML = `<iframe src="${v.embedUrl}" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" referrerpolicy="no-referrer" style="width:100%;height:100%;border:0;"></iframe>`;
       } else if (v.url) {
         videoStage.innerHTML = `<video id="modalVideoPlayer" controls playsinline preload="metadata" src="${v.url}"></video>`;
       } else {
