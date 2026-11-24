@@ -166,8 +166,8 @@ def main():
                 "22 张写字楼 VIS 系统完整落地导视与空间物料"
             ],
             "tools": ["AI Video Workflow", "Premiere Pro", "After Effects", "Illustrator"],
-            "dirs": [r"平面类\广州之窗-写字楼vis"],
-            "preferCover": r"平面类\广州之窗-写字楼vis\写字楼 vis-01.jpg"
+            "dirs": [r"01_全案整合项目\01_广州之窗\写字楼VIS"],
+            "preferCover": r"01_全案整合项目\01_广州之窗\写字楼VIS\写字楼 vis-01.jpg"
         },
         {
             "id": "xiangshan-bay",
@@ -186,8 +186,8 @@ def main():
                 "50 张完整品牌视觉规范与延展物料体系"
             ],
             "tools": ["AI Cinema", "Photoshop", "Illustrator", "After Effects"],
-            "dirs": [r"平面类\中山-香山湾壹号"],
-            "preferCover": r"平面类\中山-香山湾壹号\VI-01.jpg"
+            "dirs": [r"01_全案整合项目\02_中山-香山湾壹号\品牌VI"],
+            "preferCover": r"01_全案整合项目\02_中山-香山湾壹号\品牌VI\VI-01.jpg"
         },
         {
             "id": "jinsha-metropolis",
@@ -206,8 +206,8 @@ def main():
                 "3 组新形象动态海报 + 独立 IP 提案体系"
             ],
             "tools": ["AI Drama Pipeline", "After Effects", "Premiere Pro", "IP Design"],
-            "dirs": [r"视频创作类\金沙大都会-形象系列视频"],
-            "preferCover": r"视频创作类\金沙大都会-形象系列视频\ChatGPT_Image_2026年6月26日_00_38_19.png"
+            "dirs": [r"01_全案整合项目\03_广州金沙大都会\形象系列动态海报"],
+            "preferCover": r"01_全案整合项目\03_广州金沙大都会\形象系列动态海报\金沙大都会-形象原图-01.png"
         },
         {
             "id": "new-world-xinghui",
@@ -226,8 +226,8 @@ def main():
                 "配套 IP 动态亮相短片，打通线上社媒与线下空间传播"
             ],
             "tools": ["IP Character Design", "3D Rendering", "After Effects", "Photoshop"],
-            "dirs": [r"IP设计类\新世界-星辉"],
-            "preferCover": r"IP设计类\新世界-星辉\IP-01.jpg"
+            "dirs": [r"03_IP视觉设计\01_新世界-星辉\IP延展图集"],
+            "preferCover": r"03_IP视觉设计\01_新世界-星辉\IP延展图集\IP-01.jpg"
         },
         {
             "id": "lixun-pazhou-bay",
@@ -246,8 +246,8 @@ def main():
                 "静动态结合的项目价值传播系列，强化顶级资产气场"
             ],
             "tools": ["Premiere Pro", "After Effects", "Photoshop"],
-            "dirs": [r"视频创作类\力迅琶洲湾"],
-            "preferCover": r"视频创作类\力迅琶洲湾\0519-项目价值系列-6.jpg"
+            "dirs": [r"04_商业视频创作\01_力迅琶洲湾\平面视觉"],
+            "preferCover": r"04_商业视频创作\01_力迅琶洲湾\平面视觉\0519-项目价值系列-6.jpg"
         },
         {
             "id": "greentown-chaowen",
@@ -286,8 +286,8 @@ def main():
                 "强对比排版与建筑几何语言贯穿全套物料"
             ],
             "tools": ["Illustrator", "Photoshop", "After Effects"],
-            "dirs": [r"平面类\琶洲ONE"],
-            "preferCover": r"平面类\琶洲ONE\VI-02.jpg"
+            "dirs": [r"05_品牌平面VI\01_琶洲ONE"],
+            "preferCover": r"05_品牌平面VI\01_琶洲ONE\VI-02.jpg"
         },
         {
             "id": "crland-xijiang",
@@ -306,8 +306,8 @@ def main():
                 "3 组动态视觉 GIF 提升线上首屏冲击力"
             ],
             "tools": ["Illustrator", "Photoshop", "After Effects"],
-            "dirs": [r"平面类\华润曦江润府"],
-            "preferCover": r"平面类\华润曦江润府\VI-03.jpg"
+            "dirs": [r"05_品牌平面VI\02_华润曦江润府"],
+            "preferCover": r"05_品牌平面VI\02_华润曦江润府\VI-03.jpg"
         },
         {
             "id": "binjiang-1983",
@@ -326,8 +326,8 @@ def main():
                 "在历史厚重感与现代先锋审美间找到精准平衡"
             ],
             "tools": ["Illustrator", "InDesign", "Photoshop"],
-            "dirs": [r"平面类\广州滨江尚都 -船台1983", r"平面类\广州滨江尚都"],
-            "preferCover": r"平面类\广州滨江尚都 -船台1983\空屿洲VI-02.jpg"
+            "dirs": [r"05_品牌平面VI\03_广州滨江尚都\船台1983-空屿洲VI", r"05_品牌平面VI\03_广州滨江尚都\滨江尚都VI"],
+            "preferCover": r"05_品牌平面VI\03_广州滨江尚都\船台1983-空屿洲VI\空屿洲VI-02.jpg"
         },
         {
             "id": "ai-experimental-0809",
@@ -352,18 +352,18 @@ def main():
     ]
 
     archive_specs = [
-        ("zhongshan-greentown", "中山绿城", "品牌 VI · 动态视频", "2025", r"平面类\中山绿城"),
-        ("shkp", "新鸿基", "品牌 VI 全案", "2025", r"平面类\新鸿基"),
-        ("yuexiu-nansha", "越秀 · 南沙项目", "品牌 VI · 动态视频", "2025", r"平面类\越秀-南沙项目"),
-        ("galaxy-luobian", "星河 · 罗边项目", "品牌 VI · 6 条视频", "2025", r"平面类\星河-罗边项目"),
-        ("galaxy-hengli", "星河 · 横沥项目", "品牌 VI 全案", "2025", r"平面类\星河-横沥项目"),
-        ("kaikong-yunjin", "开控云锦", "品牌 VI · 动态视频", "2025", r"平面类\开控云锦"),
-        ("jinqiao-lingnanyuan", "金侨 · 岭南院", "品牌 VI 全案（45 图）", "2025", r"平面类\金侨 岭南院"),
-        ("zhuhai-ruimeng", "珠海 · 瑞萌", "品牌 VI 全案（36 图）", "2025", r"平面类\珠海-瑞萌"),
-        ("huiyue-dongfang", "汇悦东方项目", "品牌 VI 全案", "2025", r"平面类\汇悦东方项目"),
-        ("jihuayuan", "际华园", "品牌 VI 全案", "2025", r"平面类\际华园"),
-        ("yuechen-yihao", "知识城 · 悦辰壹号", "品牌 VI 全案", "2025", r"平面类\知识城-悦辰壹号"),
-        ("gzct-lingnanfu", "广州城投 · 领南府", "品牌 VI 全案", "2025", r"平面类\广州城投-领南府")
+        ("zhongshan-greentown", "中山绿城", "品牌 VI · 动态视频", "2025", r"05_品牌平面VI\04_中山绿城"),
+        ("shkp", "新鸿基", "品牌 VI 全案", "2025", r"05_品牌平面VI\05_新鸿基"),
+        ("yuexiu-nansha", "越秀 · 南沙项目", "品牌 VI · 动态视频", "2025", r"05_品牌平面VI\06_越秀-南沙项目"),
+        ("galaxy-luobian", "星河 · 罗边项目", "品牌 VI · 6 条视频", "2025", r"05_品牌平面VI\07_星河-罗边项目"),
+        ("galaxy-hengli", "星河 · 横沥项目", "品牌 VI 全案", "2025", r"05_品牌平面VI\08_星河-横沥项目"),
+        ("kaikong-yunjin", "开控云锦", "品牌 VI · 动态视频", "2025", r"05_品牌平面VI\09_开控云锦"),
+        ("jinqiao-lingnanyuan", "金侨 · 岭南院", "品牌 VI 全案（45 图）", "2025", r"05_品牌平面VI\10_金侨-岭南院"),
+        ("zhuhai-ruimeng", "珠海 · 瑞萌", "品牌 VI 全案（36 图）", "2025", r"05_品牌平面VI\11_珠海-瑞萌"),
+        ("huiyue-dongfang", "汇悦东方项目", "品牌 VI 全案", "2025", r"05_品牌平面VI\12_汇悦东方项目"),
+        ("jihuayuan", "际华园", "品牌 VI 全案", "2025", r"05_品牌平面VI\13_际华园"),
+        ("yuechen-yihao", "知识城 · 悦辰壹号", "品牌 VI 全案", "2025", r"05_品牌平面VI\14_知识城-悦辰壹号"),
+        ("gzct-lingnanfu", "广州城投 · 领南府", "品牌 VI 全案", "2025", r"05_品牌平面VI\15_广州城投-领南府")
     ]
 
     featured = []

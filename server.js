@@ -177,9 +177,9 @@ function buildPortfolioPayload() {
       ],
       tools: ["AI Video Workflow", "Premiere Pro", "After Effects", "Illustrator"],
       media: collect({
-        videos: [{ path: "AI视频创作\\广州之窗-总裁的一天.mp4", label: "AI 短片 · 总裁的一天" }],
-        dirs: ["视频创作类\\广州之窗-配套视频", "平面类\\广州之窗-写字楼vis"],
-        preferCover: "平面类\\广州之窗-写字楼vis\\写字楼 vis-01.jpg"
+        videos: [{ path: "01_全案整合项目\\01_广州之窗\\AI短片\\广州之窗-总裁的一天.mp4", label: "AI 短片 · 总裁的一天" }],
+        dirs: ["01_全案整合项目\\01_广州之窗\\配套视频", "01_全案整合项目\\01_广州之窗\\写字楼VIS"],
+        preferCover: "01_全案整合项目\\01_广州之窗\\写字楼VIS\\写字楼 vis-01.jpg"
       })
     },
     {
@@ -201,9 +201,9 @@ function buildPortfolioPayload() {
       ],
       tools: ["AI Cinema", "Photoshop", "Illustrator", "After Effects"],
       media: collect({
-        videos: [{ path: "AI视频创作\\《香山心 无止境》TVC.mp4", label: "AI TVC · 《香山心 无止境》" }],
-        dirs: ["平面类\\中山-香山湾壹号"],
-        preferCover: "平面类\\中山-香山湾壹号\\VI-01.jpg"
+        videos: [{ path: "01_全案整合项目\\02_中山-香山湾壹号\\AI_TVC\\《香山心 无止境》TVC.mp4", label: "AI TVC · 《香山心 无止境》" }],
+        dirs: ["01_全案整合项目\\02_中山-香山湾壹号\\品牌VI"],
+        preferCover: "01_全案整合项目\\02_中山-香山湾壹号\\品牌VI\\VI-01.jpg"
       })
     },
     {
@@ -226,11 +226,11 @@ function buildPortfolioPayload() {
       tools: ["AI Drama Pipeline", "After Effects", "Premiere Pro", "IP Design"],
       media: collect({
         videos: [
-          { path: "AI视频创作\\金沙大都会短剧-第一集.mp4", label: "AI 品牌短剧 · 第一集" },
-          { path: "AI视频创作\\金沙大都会短剧-第二集.mp4", label: "AI 品牌短剧 · 第二集" }
+          { path: "01_全案整合项目\\03_广州金沙大都会\\AI短剧\\金沙大都会短剧-第一集.mp4", label: "AI 品牌短剧 · 第一集" },
+          { path: "01_全案整合项目\\03_广州金沙大都会\\AI短剧\\金沙大都会短剧-第二集.mp4", label: "AI 品牌短剧 · 第二集" }
         ],
-        dirs: ["视频创作类\\金沙大都会-形象系列视频"],
-        preferCover: "视频创作类\\金沙大都会-形象系列视频\\ChatGPT_Image_2026年6月26日_00_38_19.png"
+        dirs: ["01_全案整合项目\\03_广州金沙大都会\\形象系列动态海报"],
+        preferCover: "01_全案整合项目\\03_广州金沙大都会\\形象系列动态海报\\金沙大都会-形象原图-01.png"
       })
     },
     {
@@ -252,8 +252,8 @@ function buildPortfolioPayload() {
       ],
       tools: ["IP Character Design", "3D Rendering", "After Effects", "Photoshop"],
       media: collect({
-        dirs: ["IP设计类\\新世界-星辉"],
-        preferCover: "IP设计类\\新世界-星辉\\IP-01.jpg"
+        dirs: ["03_IP视觉设计\\01_新世界-星辉\\动态短片", "03_IP视觉设计\\01_新世界-星辉\\IP延展图集"],
+        preferCover: "03_IP视觉设计\\01_新世界-星辉\\IP延展图集\\IP-01.jpg"
       })
     },
     {
@@ -275,8 +275,8 @@ function buildPortfolioPayload() {
       ],
       tools: ["Premiere Pro", "After Effects", "Photoshop"],
       media: collect({
-        dirs: ["视频创作类\\力迅琶洲湾"],
-        preferCover: "视频创作类\\力迅琶洲湾\\0519-项目价值系列-6.jpg"
+        dirs: ["04_商业视频创作\\01_力迅琶洲湾\\视频成片", "04_商业视频创作\\01_力迅琶洲湾\\平面视觉"],
+        preferCover: "04_商业视频创作\\01_力迅琶洲湾\\平面视觉\\0519-项目价值系列-6.jpg"
       })
     },
     {
@@ -298,7 +298,7 @@ function buildPortfolioPayload() {
       ],
       tools: ["Premiere Pro", "After Effects", "Sound Design"],
       media: collect({
-        dirs: ["视频创作类\\绿城-潮闻东方"]
+        dirs: ["04_商业视频创作\\02_绿城-潮闻东方"]
       })
     },
     {
@@ -320,8 +320,8 @@ function buildPortfolioPayload() {
       ],
       tools: ["Illustrator", "Photoshop", "After Effects"],
       media: collect({
-        dirs: ["平面类\\琶洲ONE"],
-        preferCover: "平面类\\琶洲ONE\\VI-02.jpg"
+        dirs: ["05_品牌平面VI\\01_琶洲ONE"],
+        preferCover: "05_品牌平面VI\\01_琶洲ONE\\VI-02.jpg"
       })
     },
     {
@@ -343,8 +343,8 @@ function buildPortfolioPayload() {
       ],
       tools: ["Illustrator", "Photoshop", "After Effects"],
       media: collect({
-        dirs: ["平面类\\华润曦江润府"],
-        preferCover: "平面类\\华润曦江润府\\VI-03.jpg"
+        dirs: ["05_品牌平面VI\\02_华润曦江润府"],
+        preferCover: "05_品牌平面VI\\02_华润曦江润府\\VI-03.jpg"
       })
     },
     {
@@ -366,48 +366,48 @@ function buildPortfolioPayload() {
       ],
       tools: ["Illustrator", "InDesign", "Photoshop"],
       media: collect({
-        dirs: ["平面类\\广州滨江尚都 -船台1983", "平面类\\广州滨江尚都"],
-        preferCover: "平面类\\广州滨江尚都 -船台1983\\空屿洲VI-02.jpg"
+        dirs: ["05_品牌平面VI\\03_广州滨江尚都\\船台1983-空屿洲VI", "05_品牌平面VI\\03_广州滨江尚都\\滨江尚都VI"],
+        preferCover: "05_品牌平面VI\\03_广州滨江尚都\\船台1983-空屿洲VI\\空屿洲VI-02.jpg"
       })
     },
     {
       id: "ai-experimental-0809",
       index: "10",
-      title: "AI 先锋影像实验短片（0809）",
-      subtitle: "AI Generative Film / Visual Experiment",
+      title: "《概念创作影片》· AI 先锋影像短片",
+      subtitle: "AI Generative Film / Visual Concept",
       categories: ["ai"],
       categoryLabel: "AI 视频创作",
       year: "2026",
       span: "normal",
-      client: "AI VISUAL EXPERIMENT",
+      client: "AI VISUAL CONCEPT",
       role: "AI 导演 / 视觉生成 / 后期剪辑",
       summary:
-        "独立创作的 AI 生成式影像实验作品，探索高对比暗调光影、镜头语言控制与生成式影像节奏剪辑。（可随时替换为你指定的正式片名）",
+        "独立创作的 AI 生成式概念影像作品，探索高对比暗调光影、镜头语言控制与生成式影像节奏剪辑。",
       highlights: [
         "全流程 AI 视频生成与后期音画精剪",
         "支持网页高清流式播放与进度条自由拖拽"
       ],
       tools: ["AI Video Generation", "Premiere Pro", "After Effects"],
       media: collect({
-        videos: [{ path: "AI视频创作\\8月9日(7).mp4", label: "AI 实验短片 · 0809" }]
+        videos: [{ path: "02_AI视频创作\\01_概念创作影片.mp4", label: "概念创作影片" }]
       })
     }
   ];
 
   // Remaining projects in the Complete Archive
   const archiveConfigs = [
-    { id: "zhongshan-greentown", title: "中山绿城", tag: "品牌 VI · 动态视频", year: "2025", dir: "平面类\\中山绿城" },
-    { id: "shkp", title: "新鸿基", tag: "品牌 VI 全案", year: "2025", dir: "平面类\\新鸿基" },
-    { id: "yuexiu-nansha", title: "越秀 · 南沙项目", tag: "品牌 VI · 动态视频", year: "2025", dir: "平面类\\越秀-南沙项目" },
-    { id: "galaxy-luobian", title: "星河 · 罗边项目", tag: "品牌 VI · 6 条视频", year: "2025", dir: "平面类\\星河-罗边项目" },
-    { id: "galaxy-hengli", title: "星河 · 横沥项目", tag: "品牌 VI 全案", year: "2025", dir: "平面类\\星河-横沥项目" },
-    { id: "kaikong-yunjin", title: "开控云锦", tag: "品牌 VI · 动态视频", year: "2025", dir: "平面类\\开控云锦" },
-    { id: "jinqiao-lingnanyuan", title: "金侨 · 岭南院", tag: "品牌 VI 全案（45 图）", year: "2025", dir: "平面类\\金侨 岭南院" },
-    { id: "zhuhai-ruimeng", title: "珠海 · 瑞萌", tag: "品牌 VI 全案（36 图）", year: "2025", dir: "平面类\\珠海-瑞萌" },
-    { id: "huiyue-dongfang", title: "汇悦东方项目", tag: "品牌 VI 全案", year: "2025", dir: "平面类\\汇悦东方项目" },
-    { id: "jihuayuan", title: "际华园", tag: "品牌 VI 全案", year: "2025", dir: "平面类\\际华园" },
-    { id: "yuechen-yihao", title: "知识城 · 悦辰壹号", tag: "品牌 VI 全案", year: "2025", dir: "平面类\\知识城-悦辰壹号" },
-    { id: "gzct-lingnanfu", title: "广州城投 · 领南府", tag: "品牌 VI 全案", year: "2025", dir: "平面类\\广州城投-领南府" }
+    { id: "zhongshan-greentown", title: "中山绿城", tag: "品牌 VI · 动态视频", year: "2025", dir: "05_品牌平面VI\\04_中山绿城" },
+    { id: "shkp", title: "新鸿基", tag: "品牌 VI 全案", year: "2025", dir: "05_品牌平面VI\\05_新鸿基" },
+    { id: "yuexiu-nansha", title: "越秀 · 南沙项目", tag: "品牌 VI · 动态视频", year: "2025", dir: "05_品牌平面VI\\06_越秀-南沙项目" },
+    { id: "galaxy-luobian", title: "星河 · 罗边项目", tag: "品牌 VI · 6 条视频", year: "2025", dir: "05_品牌平面VI\\07_星河-罗边项目" },
+    { id: "galaxy-hengli", title: "星河 · 横沥项目", tag: "品牌 VI 全案", year: "2025", dir: "05_品牌平面VI\\08_星河-横沥项目" },
+    { id: "kaikong-yunjin", title: "开控云锦", tag: "品牌 VI · 动态视频", year: "2025", dir: "05_品牌平面VI\\09_开控云锦" },
+    { id: "jinqiao-lingnanyuan", title: "金侨 · 岭南院", tag: "品牌 VI 全案（45 图）", year: "2025", dir: "05_品牌平面VI\\10_金侨-岭南院" },
+    { id: "zhuhai-ruimeng", title: "珠海 · 瑞萌", tag: "品牌 VI 全案（36 图）", year: "2025", dir: "05_品牌平面VI\\11_珠海-瑞萌" },
+    { id: "huiyue-dongfang", title: "汇悦东方项目", tag: "品牌 VI 全案", year: "2025", dir: "05_品牌平面VI\\12_汇悦东方项目" },
+    { id: "jihuayuan", title: "际华园", tag: "品牌 VI 全案", year: "2025", dir: "05_品牌平面VI\\13_际华园" },
+    { id: "yuechen-yihao", title: "知识城 · 悦辰壹号", tag: "品牌 VI 全案", year: "2025", dir: "05_品牌平面VI\\14_知识城-悦辰壹号" },
+    { id: "gzct-lingnanfu", title: "广州城投 · 领南府", tag: "品牌 VI 全案", year: "2025", dir: "05_品牌平面VI\\15_广州城投-领南府" }
   ];
 
   const archive = archiveConfigs.map((cfg, idx) => {
