@@ -1,0 +1,4241 @@
+{
+  "mode": "static",
+  "meta": {
+    "totalProjects": 22,
+    "totalImages": 558,
+    "totalVideos": 42
+  },
+  "featured": [
+    {
+      "id": "guangzhou-window",
+      "index": "01",
+      "title": "广州之窗 · 跨媒介全案与 AI 商业短片",
+      "subtitle": "Office VIS / Amenity Films / AI Narrative Film",
+      "categories": [
+        "ai",
+        "video",
+        "brand"
+      ],
+      "categoryLabel": "全案 · AI影像 · VIS",
+      "year": "2026",
+      "span": "wide",
+      "client": "广州之窗",
+      "role": "品牌视觉 / 配套视频创作 / AI 短片导演",
+      "summary": "横跨写字楼 VIS 视觉识别系统、四大高端商务配套宣传短片（会所、停机坪、游艇码头、国际文化交流中心）以及 AI 商业剧情短片《总裁的一天》，完整呈现从平面体系到生成式影像的整合表达。",
+      "highlights": [
+        "AI 商业剧情片《总裁的一天》以沉浸式第一视角串联项目顶级商务场景",
+        "4 条高端配套短片统一冷峻克制的电影级视觉与剪辑节奏",
+        "22 张写字楼 VIS 系统完整落地导视与空间物料"
+      ],
+      "tools": [
+        "AI Video Workflow",
+        "Premiere Pro",
+        "After Effects",
+        "Illustrator"
+      ],
+      "media": {
+        "coverImage": "./media/guangzhou-window/img_001.webp",
+        "coverVideo": null,
+        "images": [
+          {
+            "name": "写字楼 vis-01.jpg",
+            "label": "写字楼 vis-01",
+            "url": "./media/guangzhou-window/img_001.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "写字楼 vis-02.jpg",
+            "label": "写字楼 vis-02",
+            "url": "./media/guangzhou-window/img_002.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "写字楼 vis-03.jpg",
+            "label": "写字楼 vis-03",
+            "url": "./media/guangzhou-window/img_003.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "写字楼 vis-04.jpg",
+            "label": "写字楼 vis-04",
+            "url": "./media/guangzhou-window/img_004.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "写字楼 vis-05.jpg",
+            "label": "写字楼 vis-05",
+            "url": "./media/guangzhou-window/img_005.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "写字楼 vis-06.jpg",
+            "label": "写字楼 vis-06",
+            "url": "./media/guangzhou-window/img_006.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "写字楼 vis-07.jpg",
+            "label": "写字楼 vis-07",
+            "url": "./media/guangzhou-window/img_007.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "写字楼 vis-08.jpg",
+            "label": "写字楼 vis-08",
+            "url": "./media/guangzhou-window/img_008.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "写字楼 vis-09.jpg",
+            "label": "写字楼 vis-09",
+            "url": "./media/guangzhou-window/img_009.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "写字楼 vis-10.jpg",
+            "label": "写字楼 vis-10",
+            "url": "./media/guangzhou-window/img_010.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "写字楼 vis-11.jpg",
+            "label": "写字楼 vis-11",
+            "url": "./media/guangzhou-window/img_011.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "写字楼 vis-12.jpg",
+            "label": "写字楼 vis-12",
+            "url": "./media/guangzhou-window/img_012.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "写字楼 vis-13.jpg",
+            "label": "写字楼 vis-13",
+            "url": "./media/guangzhou-window/img_013.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "写字楼 vis-14.jpg",
+            "label": "写字楼 vis-14",
+            "url": "./media/guangzhou-window/img_014.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "写字楼 vis-15.jpg",
+            "label": "写字楼 vis-15",
+            "url": "./media/guangzhou-window/img_015.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "写字楼 vis-16.jpg",
+            "label": "写字楼 vis-16",
+            "url": "./media/guangzhou-window/img_016.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "写字楼 vis-17.jpg",
+            "label": "写字楼 vis-17",
+            "url": "./media/guangzhou-window/img_017.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "写字楼 vis-18.jpg",
+            "label": "写字楼 vis-18",
+            "url": "./media/guangzhou-window/img_018.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "写字楼 vis-19.jpg",
+            "label": "写字楼 vis-19",
+            "url": "./media/guangzhou-window/img_019.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "写字楼 vis-20.jpg",
+            "label": "写字楼 vis-20",
+            "url": "./media/guangzhou-window/img_020.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "写字楼 vis-21.jpg",
+            "label": "写字楼 vis-21",
+            "url": "./media/guangzhou-window/img_021.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "写字楼 vis-22.jpg",
+            "label": "写字楼 vis-22",
+            "url": "./media/guangzhou-window/img_022.webp",
+            "ext": ".webp"
+          }
+        ],
+        "videos": [
+          {
+            "label": "AI 短片 · 总裁的一天",
+            "bvid": "",
+            "embedUrl": "",
+            "sizeMB": 0
+          },
+          {
+            "label": "配套视频 · 会所",
+            "bvid": "",
+            "embedUrl": "",
+            "sizeMB": 0
+          },
+          {
+            "label": "配套视频 · 停机坪",
+            "bvid": "",
+            "embedUrl": "",
+            "sizeMB": 0
+          },
+          {
+            "label": "配套视频 · 国际文化交流中心",
+            "bvid": "",
+            "embedUrl": "",
+            "sizeMB": 0
+          },
+          {
+            "label": "配套视频 · 游艇码头",
+            "bvid": "",
+            "embedUrl": "",
+            "sizeMB": 0
+          }
+        ],
+        "counts": {
+          "images": 22,
+          "videos": 5
+        }
+      }
+    },
+    {
+      "id": "xiangshan-bay",
+      "index": "02",
+      "title": "中山·香山湾壹号 · 品牌全案与 AI TVC",
+      "subtitle": "Full Brand VI System / AI Commercial TVC",
+      "categories": [
+        "ai",
+        "brand"
+      ],
+      "categoryLabel": "AI TVC · 品牌全案",
+      "year": "2026",
+      "span": "normal",
+      "client": "中山·香山湾壹号",
+      "role": "品牌全案视觉 / AI 商业 TVC 导演",
+      "summary": "以《香山心 无止境》为核心视觉主张，同步构建 50 页完整品牌 VI 系统与 AI 商业形象 TVC，将东方山海意境转化为极具当代张力的视觉符号。",
+      "highlights": [
+        "AI 商业 TVC《香山心 无止境》实现大尺度山海建筑镜头与情绪叙事融合",
+        "50 张完整品牌视觉规范与延展物料体系"
+      ],
+      "tools": [
+        "AI Cinema",
+        "Photoshop",
+        "Illustrator",
+        "After Effects"
+      ],
+      "media": {
+        "coverImage": "./media/xiangshan-bay/img_001.webp",
+        "coverVideo": null,
+        "images": [
+          {
+            "name": "VI-01.jpg",
+            "label": "VI-01",
+            "url": "./media/xiangshan-bay/img_001.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-02.jpg",
+            "label": "VI-02",
+            "url": "./media/xiangshan-bay/img_002.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-03.jpg",
+            "label": "VI-03",
+            "url": "./media/xiangshan-bay/img_003.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-04.jpg",
+            "label": "VI-04",
+            "url": "./media/xiangshan-bay/img_004.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-05.jpg",
+            "label": "VI-05",
+            "url": "./media/xiangshan-bay/img_005.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-06.jpg",
+            "label": "VI-06",
+            "url": "./media/xiangshan-bay/img_006.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-07.jpg",
+            "label": "VI-07",
+            "url": "./media/xiangshan-bay/img_007.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-07A_标志设计理念_自身符号释义版.jpg",
+            "label": "VI-07A_标志设计理念_自身符号释义版",
+            "url": "./media/xiangshan-bay/img_008.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-08.jpg",
+            "label": "VI-08",
+            "url": "./media/xiangshan-bay/img_009.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-09.jpg",
+            "label": "VI-09",
+            "url": "./media/xiangshan-bay/img_010.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-10.jpg",
+            "label": "VI-10",
+            "url": "./media/xiangshan-bay/img_011.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-11.jpg",
+            "label": "VI-11",
+            "url": "./media/xiangshan-bay/img_012.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-12.jpg",
+            "label": "VI-12",
+            "url": "./media/xiangshan-bay/img_013.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-13.jpg",
+            "label": "VI-13",
+            "url": "./media/xiangshan-bay/img_014.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-14.jpg",
+            "label": "VI-14",
+            "url": "./media/xiangshan-bay/img_015.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-15.jpg",
+            "label": "VI-15",
+            "url": "./media/xiangshan-bay/img_016.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-16.jpg",
+            "label": "VI-16",
+            "url": "./media/xiangshan-bay/img_017.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-17.jpg",
+            "label": "VI-17",
+            "url": "./media/xiangshan-bay/img_018.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-18.jpg",
+            "label": "VI-18",
+            "url": "./media/xiangshan-bay/img_019.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-19.jpg",
+            "label": "VI-19",
+            "url": "./media/xiangshan-bay/img_020.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-20.jpg",
+            "label": "VI-20",
+            "url": "./media/xiangshan-bay/img_021.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-21.jpg",
+            "label": "VI-21",
+            "url": "./media/xiangshan-bay/img_022.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-22.jpg",
+            "label": "VI-22",
+            "url": "./media/xiangshan-bay/img_023.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-23.jpg",
+            "label": "VI-23",
+            "url": "./media/xiangshan-bay/img_024.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-24.jpg",
+            "label": "VI-24",
+            "url": "./media/xiangshan-bay/img_025.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-25.jpg",
+            "label": "VI-25",
+            "url": "./media/xiangshan-bay/img_026.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-26.jpg",
+            "label": "VI-26",
+            "url": "./media/xiangshan-bay/img_027.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-27.jpg",
+            "label": "VI-27",
+            "url": "./media/xiangshan-bay/img_028.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-28.jpg",
+            "label": "VI-28",
+            "url": "./media/xiangshan-bay/img_029.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-29.jpg",
+            "label": "VI-29",
+            "url": "./media/xiangshan-bay/img_030.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-30.jpg",
+            "label": "VI-30",
+            "url": "./media/xiangshan-bay/img_031.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-31.jpg",
+            "label": "VI-31",
+            "url": "./media/xiangshan-bay/img_032.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-32.jpg",
+            "label": "VI-32",
+            "url": "./media/xiangshan-bay/img_033.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-33.jpg",
+            "label": "VI-33",
+            "url": "./media/xiangshan-bay/img_034.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-34.jpg",
+            "label": "VI-34",
+            "url": "./media/xiangshan-bay/img_035.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-35.jpg",
+            "label": "VI-35",
+            "url": "./media/xiangshan-bay/img_036.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-36.jpg",
+            "label": "VI-36",
+            "url": "./media/xiangshan-bay/img_037.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-37.jpg",
+            "label": "VI-37",
+            "url": "./media/xiangshan-bay/img_038.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-38.jpg",
+            "label": "VI-38",
+            "url": "./media/xiangshan-bay/img_039.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-39.jpg",
+            "label": "VI-39",
+            "url": "./media/xiangshan-bay/img_040.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-40.jpg",
+            "label": "VI-40",
+            "url": "./media/xiangshan-bay/img_041.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-41.jpg",
+            "label": "VI-41",
+            "url": "./media/xiangshan-bay/img_042.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-42.jpg",
+            "label": "VI-42",
+            "url": "./media/xiangshan-bay/img_043.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "中山海岸的价值重置-1.jpg",
+            "label": "中山海岸的价值重置-1",
+            "url": "./media/xiangshan-bay/img_044.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "中山海岸的价值重置-2.jpg",
+            "label": "中山海岸的价值重置-2",
+            "url": "./media/xiangshan-bay/img_045.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "中山海岸的价值重置-3.jpg",
+            "label": "中山海岸的价值重置-3",
+            "url": "./media/xiangshan-bay/img_046.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "中山海岸的价值重置-4.jpg",
+            "label": "中山海岸的价值重置-4",
+            "url": "./media/xiangshan-bay/img_047.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "预热海报-13.jpg",
+            "label": "预热海报-13",
+            "url": "./media/xiangshan-bay/img_048.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "预热海报-14.jpg",
+            "label": "预热海报-14",
+            "url": "./media/xiangshan-bay/img_049.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "预热海报-15.jpg",
+            "label": "预热海报-15",
+            "url": "./media/xiangshan-bay/img_050.webp",
+            "ext": ".webp"
+          }
+        ],
+        "videos": [
+          {
+            "label": "AI TVC · 《香山心 无止境》",
+            "bvid": "",
+            "embedUrl": "",
+            "sizeMB": 0
+          }
+        ],
+        "counts": {
+          "images": 50,
+          "videos": 1
+        }
+      }
+    },
+    {
+      "id": "jinsha-metropolis",
+      "index": "03",
+      "title": "广州金沙大都会 · AI 品牌短剧与动态形象",
+      "subtitle": "AI Brand Mini-Drama / Motion Posters / IP",
+      "categories": [
+        "ai",
+        "video",
+        "ip"
+      ],
+      "categoryLabel": "AI短剧 · 动态海报",
+      "year": "2026",
+      "span": "normal",
+      "client": "广州金沙大都会",
+      "role": "AI 短剧导演 / 动态海报设计 / IP 视觉",
+      "summary": "探索“品牌内容短剧化 + 动态形象海报 + 原创 IP”三位一体的新营销表达，产出连续两集 AI 品牌短剧及三组高质感新形象动态海报。",
+      "highlights": [
+        "连续剧式 AI 商业短剧（第一集、第二集），兼顾角色一致性与剧情节奏",
+        "3 组新形象动态海报 + 独立 IP 提案体系"
+      ],
+      "tools": [
+        "AI Drama Pipeline",
+        "After Effects",
+        "Premiere Pro",
+        "IP Design"
+      ],
+      "media": {
+        "coverImage": "./media/jinsha-metropolis/img_001.webp",
+        "coverVideo": null,
+        "images": [
+          {
+            "name": "ChatGPT_Image_2026年6月26日_00_38_19.png",
+            "label": "ChatGPT_Image_2026年6月26日_00_38_19",
+            "url": "./media/jinsha-metropolis/img_001.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "ChatGPT_Image_2026年6月26日_00_42_26.png",
+            "label": "ChatGPT_Image_2026年6月26日_00_42_26",
+            "url": "./media/jinsha-metropolis/img_002.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "ChatGPT_Image_2026年6月26日_01_00_47.png",
+            "label": "ChatGPT_Image_2026年6月26日_01_00_47",
+            "url": "./media/jinsha-metropolis/img_003.webp",
+            "ext": ".webp"
+          }
+        ],
+        "videos": [
+          {
+            "label": "AI 品牌短剧 · 第一集",
+            "bvid": "",
+            "embedUrl": "",
+            "sizeMB": 0
+          },
+          {
+            "label": "AI 品牌短剧 · 第二集",
+            "bvid": "",
+            "embedUrl": "",
+            "sizeMB": 0
+          },
+          {
+            "label": "新形象系列海报 1-3",
+            "bvid": "",
+            "embedUrl": "",
+            "sizeMB": 0
+          }
+        ],
+        "counts": {
+          "images": 3,
+          "videos": 3
+        }
+      }
+    },
+    {
+      "id": "new-world-xinghui",
+      "index": "04",
+      "title": "新世界·星辉 · 品牌 IP 视觉与动画短片",
+      "subtitle": "Character IP Design / 3D Extension / Motion",
+      "categories": [
+        "ip"
+      ],
+      "categoryLabel": "IP 视觉设计",
+      "year": "2026",
+      "span": "wide",
+      "client": "新世界·星辉",
+      "role": "IP 形象主创 / 延展应用 / 动态呈现",
+      "summary": "为新世界·星辉打造极具记忆点的品牌专属 IP 形象，涵盖角色设定、多场景动作延展、线下美陈周边应用（34 张完整视觉）及专属动态亮相短片。",
+      "highlights": [
+        "34 张体系化 IP 视觉设定与商业场景延展图集",
+        "配套 IP 动态亮相短片，打通线上社媒与线下空间传播"
+      ],
+      "tools": [
+        "IP Character Design",
+        "3D Rendering",
+        "After Effects",
+        "Photoshop"
+      ],
+      "media": {
+        "coverImage": "./media/new-world-xinghui/img_001.webp",
+        "coverVideo": null,
+        "images": [
+          {
+            "name": "IP-01.jpg",
+            "label": "IP-01",
+            "url": "./media/new-world-xinghui/img_001.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "IP-02.jpg",
+            "label": "IP-02",
+            "url": "./media/new-world-xinghui/img_002.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "IP-03.jpg",
+            "label": "IP-03",
+            "url": "./media/new-world-xinghui/img_003.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "IP-04.jpg",
+            "label": "IP-04",
+            "url": "./media/new-world-xinghui/img_004.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "IP-05.jpg",
+            "label": "IP-05",
+            "url": "./media/new-world-xinghui/img_005.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "IP-06.jpg",
+            "label": "IP-06",
+            "url": "./media/new-world-xinghui/img_006.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "IP-07.jpg",
+            "label": "IP-07",
+            "url": "./media/new-world-xinghui/img_007.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "IP-08.jpg",
+            "label": "IP-08",
+            "url": "./media/new-world-xinghui/img_008.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "IP-09.jpg",
+            "label": "IP-09",
+            "url": "./media/new-world-xinghui/img_009.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "IP-10.jpg",
+            "label": "IP-10",
+            "url": "./media/new-world-xinghui/img_010.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "IP-11.jpg",
+            "label": "IP-11",
+            "url": "./media/new-world-xinghui/img_011.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "IP-12.jpg",
+            "label": "IP-12",
+            "url": "./media/new-world-xinghui/img_012.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "IP-13.jpg",
+            "label": "IP-13",
+            "url": "./media/new-world-xinghui/img_013.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "IP-14.jpg",
+            "label": "IP-14",
+            "url": "./media/new-world-xinghui/img_014.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "IP-15.jpg",
+            "label": "IP-15",
+            "url": "./media/new-world-xinghui/img_015.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "IP-16.jpg",
+            "label": "IP-16",
+            "url": "./media/new-world-xinghui/img_016.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "IP-17.jpg",
+            "label": "IP-17",
+            "url": "./media/new-world-xinghui/img_017.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "IP-18.jpg",
+            "label": "IP-18",
+            "url": "./media/new-world-xinghui/img_018.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "IP-19.jpg",
+            "label": "IP-19",
+            "url": "./media/new-world-xinghui/img_019.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "IP-20.jpg",
+            "label": "IP-20",
+            "url": "./media/new-world-xinghui/img_020.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "IP-21.jpg",
+            "label": "IP-21",
+            "url": "./media/new-world-xinghui/img_021.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "IP-22.jpg",
+            "label": "IP-22",
+            "url": "./media/new-world-xinghui/img_022.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "IP-23.jpg",
+            "label": "IP-23",
+            "url": "./media/new-world-xinghui/img_023.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "IP-24.jpg",
+            "label": "IP-24",
+            "url": "./media/new-world-xinghui/img_024.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "IP-25.jpg",
+            "label": "IP-25",
+            "url": "./media/new-world-xinghui/img_025.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "IP-26.jpg",
+            "label": "IP-26",
+            "url": "./media/new-world-xinghui/img_026.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "IP-27.jpg",
+            "label": "IP-27",
+            "url": "./media/new-world-xinghui/img_027.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "IP-28.jpg",
+            "label": "IP-28",
+            "url": "./media/new-world-xinghui/img_028.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "IP-29.jpg",
+            "label": "IP-29",
+            "url": "./media/new-world-xinghui/img_029.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "IP-30.jpg",
+            "label": "IP-30",
+            "url": "./media/new-world-xinghui/img_030.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "IP-31.jpg",
+            "label": "IP-31",
+            "url": "./media/new-world-xinghui/img_031.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "IP-32.jpg",
+            "label": "IP-32",
+            "url": "./media/new-world-xinghui/img_032.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "IP-33.jpg",
+            "label": "IP-33",
+            "url": "./media/new-world-xinghui/img_033.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "IP-34.jpg",
+            "label": "IP-34",
+            "url": "./media/new-world-xinghui/img_034.webp",
+            "ext": ".webp"
+          }
+        ],
+        "videos": [
+          {
+            "label": "新世界·星辉 IP 动态亮相短片",
+            "bvid": "",
+            "embedUrl": "",
+            "sizeMB": 0
+          }
+        ],
+        "counts": {
+          "images": 34,
+          "videos": 1
+        }
+      }
+    },
+    {
+      "id": "lixun-pazhou-bay",
+      "index": "05",
+      "title": "力迅·琶洲湾 · 影院 30s 大片与价值影像矩阵",
+      "subtitle": "Cinema 30s TVC / Brand Films / Value Series",
+      "categories": [
+        "video"
+      ],
+      "categoryLabel": "商业视频创作",
+      "year": "2026",
+      "span": "wide",
+      "client": "力迅·琶洲湾",
+      "role": "视频导演 / 剪辑指导 / 价值视觉设计",
+      "summary": "围绕珠江新城与琶洲核心区位价值，统筹影院 30 秒投放广告、品牌兑现力宣传片、系列动态海报及项目价值平面矩阵，共 10 条成片与 8 组视觉画面。",
+      "highlights": [
+        "《影院投放 30 秒》《兑现力》《执掌珠江》多规格商业成片矩阵",
+        "静动态结合的项目价值传播系列，强化顶级资产气场"
+      ],
+      "tools": [
+        "Premiere Pro",
+        "After Effects",
+        "Photoshop"
+      ],
+      "media": {
+        "coverImage": "./media/lixun-pazhou-bay/img_004.webp",
+        "coverVideo": null,
+        "images": [
+          {
+            "name": "1.jpg",
+            "label": "1",
+            "url": "./media/lixun-pazhou-bay/img_001.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "2.jpg",
+            "label": "2",
+            "url": "./media/lixun-pazhou-bay/img_002.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "3.jpg",
+            "label": "3",
+            "url": "./media/lixun-pazhou-bay/img_003.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "0519-项目价值系列-6.jpg",
+            "label": "0519-项目价值系列-6",
+            "url": "./media/lixun-pazhou-bay/img_004.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "0519-项目价值系列-7.jpg",
+            "label": "0519-项目价值系列-7",
+            "url": "./media/lixun-pazhou-bay/img_005.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "0519-项目价值系列-8.jpg",
+            "label": "0519-项目价值系列-8",
+            "url": "./media/lixun-pazhou-bay/img_006.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "0519-项目价值系列-9.jpg",
+            "label": "0519-项目价值系列-9",
+            "url": "./media/lixun-pazhou-bay/img_007.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "0519-项目价值系列-10.jpg",
+            "label": "0519-项目价值系列-10",
+            "url": "./media/lixun-pazhou-bay/img_008.webp",
+            "ext": ".webp"
+          }
+        ],
+        "videos": [
+          {
+            "label": "影院投放 30 秒",
+            "bvid": "",
+            "embedUrl": "",
+            "sizeMB": 0
+          },
+          {
+            "label": "兑现力，是琶洲回应期待的唯一语言",
+            "bvid": "",
+            "embedUrl": "",
+            "sizeMB": 0
+          },
+          {
+            "label": "执掌珠江 新经济领袖传世恒产",
+            "bvid": "",
+            "embedUrl": "",
+            "sizeMB": 0
+          }
+        ],
+        "counts": {
+          "images": 8,
+          "videos": 3
+        }
+      }
+    },
+    {
+      "id": "greentown-chaowen",
+      "index": "06",
+      "title": "绿城·潮闻东方 · 品牌形象与价值系列影片",
+      "subtitle": "Brand Film / Value Video Trilogy",
+      "categories": [
+        "video"
+      ],
+      "categoryLabel": "商业视频创作",
+      "year": "2025",
+      "span": "normal",
+      "client": "绿城·潮闻东方",
+      "role": "剪辑指导 / 节奏叙事",
+      "summary": "由 1 条主形象大片与 3 条项目价值系列短片组成的东方美学影像矩阵，以沉稳克制的声画叙事传递绿城产品力与东方气韵。",
+      "highlights": [
+        "主形象片 + 三部曲价值系列，结构清晰、节奏递进",
+        "电影级画面质感与沉浸式情绪铺陈"
+      ],
+      "tools": [
+        "Premiere Pro",
+        "After Effects",
+        "Sound Design"
+      ],
+      "media": {
+        "coverImage": null,
+        "coverVideo": null,
+        "images": [],
+        "videos": [
+          {
+            "label": "绿城·潮闻东方 形象视频",
+            "bvid": "",
+            "embedUrl": "",
+            "sizeMB": 0
+          },
+          {
+            "label": "价值系列视频 1",
+            "bvid": "",
+            "embedUrl": "",
+            "sizeMB": 0
+          },
+          {
+            "label": "价值系列视频 2",
+            "bvid": "",
+            "embedUrl": "",
+            "sizeMB": 0
+          },
+          {
+            "label": "价值系列视频 3",
+            "bvid": "",
+            "embedUrl": "",
+            "sizeMB": 0
+          }
+        ],
+        "counts": {
+          "images": 0,
+          "videos": 4
+        }
+      }
+    },
+    {
+      "id": "pazhou-one",
+      "index": "07",
+      "title": "琶洲 ONE · 城市地标视觉与动态海报系统",
+      "subtitle": "Landmark VI / Animated Posters / Graphic",
+      "categories": [
+        "brand"
+      ],
+      "categoryLabel": "品牌 / 平面",
+      "year": "2026",
+      "span": "normal",
+      "client": "琶洲 ONE",
+      "role": "主视觉设计 / 动态平面设计",
+      "summary": "针对琶洲核心地标打造的先锋现代品牌视觉体系，结合 19 张高辨识度平面延展与 4 组动态 GIF 海报，凸显国际商务地标的锐度与质感。",
+      "highlights": [
+        "静动态双轨输出：19 张 VI 应用 + 4 组动态海报",
+        "强对比排版与建筑几何语言贯穿全套物料"
+      ],
+      "tools": [
+        "Illustrator",
+        "Photoshop",
+        "After Effects"
+      ],
+      "media": {
+        "coverImage": "./media/pazhou-one/img_001.webp",
+        "coverVideo": null,
+        "images": [
+          {
+            "name": "VI-02.jpg",
+            "label": "VI-02",
+            "url": "./media/pazhou-one/img_001.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-03.jpg",
+            "label": "VI-03",
+            "url": "./media/pazhou-one/img_002.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-04.jpg",
+            "label": "VI-04",
+            "url": "./media/pazhou-one/img_003.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-05.jpg",
+            "label": "VI-05",
+            "url": "./media/pazhou-one/img_004.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-06.jpg",
+            "label": "VI-06",
+            "url": "./media/pazhou-one/img_005.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-07.jpg",
+            "label": "VI-07",
+            "url": "./media/pazhou-one/img_006.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-08.jpg",
+            "label": "VI-08",
+            "url": "./media/pazhou-one/img_007.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-09.jpg",
+            "label": "VI-09",
+            "url": "./media/pazhou-one/img_008.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-10.jpg",
+            "label": "VI-10",
+            "url": "./media/pazhou-one/img_009.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-11.jpg",
+            "label": "VI-11",
+            "url": "./media/pazhou-one/img_010.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-12.jpg",
+            "label": "VI-12",
+            "url": "./media/pazhou-one/img_011.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-13.jpg",
+            "label": "VI-13",
+            "url": "./media/pazhou-one/img_012.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-14.jpg",
+            "label": "VI-14",
+            "url": "./media/pazhou-one/img_013.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-15.jpg",
+            "label": "VI-15",
+            "url": "./media/pazhou-one/img_014.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-16.jpg",
+            "label": "VI-16",
+            "url": "./media/pazhou-one/img_015.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-17.jpg",
+            "label": "VI-17",
+            "url": "./media/pazhou-one/img_016.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-18.jpg",
+            "label": "VI-18",
+            "url": "./media/pazhou-one/img_017.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-19.jpg",
+            "label": "VI-19",
+            "url": "./media/pazhou-one/img_018.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI_画板 1.jpg",
+            "label": "VI_画板 1",
+            "url": "./media/pazhou-one/img_019.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "底4-4.gif",
+            "label": "底4-4",
+            "url": "./media/pazhou-one/img_020.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "底-1.gif",
+            "label": "底-1",
+            "url": "./media/pazhou-one/img_021.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "底-2_2.gif",
+            "label": "底-2_2",
+            "url": "./media/pazhou-one/img_022.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "底-3.gif",
+            "label": "底-3",
+            "url": "./media/pazhou-one/img_023.webp",
+            "ext": ".webp"
+          }
+        ],
+        "videos": [],
+        "counts": {
+          "images": 23,
+          "videos": 0
+        }
+      }
+    },
+    {
+      "id": "crland-xijiang",
+      "index": "08",
+      "title": "华润·曦江润府 · 品牌视觉识别与动态延展",
+      "subtitle": "Luxury Residence VI / Motion Graphics",
+      "categories": [
+        "brand"
+      ],
+      "categoryLabel": "品牌 / 平面",
+      "year": "2025",
+      "span": "wide",
+      "client": "华润置地",
+      "role": "品牌视觉设计师",
+      "summary": "为华润曦江润府构建兼具东方雅韵与现代锋芒的品牌视觉识别系统，包含 20 张核心 VI 延展画面与 3 组动态视觉演绎。",
+      "highlights": [
+        "完整覆盖核心视觉符号、字体层级与延展物料",
+        "3 组动态视觉 GIF 提升线上首屏冲击力"
+      ],
+      "tools": [
+        "Illustrator",
+        "Photoshop",
+        "After Effects"
+      ],
+      "media": {
+        "coverImage": "./media/crland-xijiang/img_004.webp",
+        "coverVideo": null,
+        "images": [
+          {
+            "name": "1.gif",
+            "label": "1",
+            "url": "./media/crland-xijiang/img_001.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "2.gif",
+            "label": "2",
+            "url": "./media/crland-xijiang/img_002.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "3.gif",
+            "label": "3",
+            "url": "./media/crland-xijiang/img_003.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-03.jpg",
+            "label": "VI-03",
+            "url": "./media/crland-xijiang/img_004.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-04.jpg",
+            "label": "VI-04",
+            "url": "./media/crland-xijiang/img_005.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-05.jpg",
+            "label": "VI-05",
+            "url": "./media/crland-xijiang/img_006.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-06.jpg",
+            "label": "VI-06",
+            "url": "./media/crland-xijiang/img_007.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-07.jpg",
+            "label": "VI-07",
+            "url": "./media/crland-xijiang/img_008.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-08.jpg",
+            "label": "VI-08",
+            "url": "./media/crland-xijiang/img_009.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-09.jpg",
+            "label": "VI-09",
+            "url": "./media/crland-xijiang/img_010.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-10.jpg",
+            "label": "VI-10",
+            "url": "./media/crland-xijiang/img_011.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-11.jpg",
+            "label": "VI-11",
+            "url": "./media/crland-xijiang/img_012.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-12.jpg",
+            "label": "VI-12",
+            "url": "./media/crland-xijiang/img_013.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-13.jpg",
+            "label": "VI-13",
+            "url": "./media/crland-xijiang/img_014.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-14.jpg",
+            "label": "VI-14",
+            "url": "./media/crland-xijiang/img_015.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-15.jpg",
+            "label": "VI-15",
+            "url": "./media/crland-xijiang/img_016.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-16.jpg",
+            "label": "VI-16",
+            "url": "./media/crland-xijiang/img_017.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-17.jpg",
+            "label": "VI-17",
+            "url": "./media/crland-xijiang/img_018.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-18.jpg",
+            "label": "VI-18",
+            "url": "./media/crland-xijiang/img_019.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-19.jpg",
+            "label": "VI-19",
+            "url": "./media/crland-xijiang/img_020.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-20.jpg",
+            "label": "VI-20",
+            "url": "./media/crland-xijiang/img_021.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-21.jpg",
+            "label": "VI-21",
+            "url": "./media/crland-xijiang/img_022.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "户外-1.jpg",
+            "label": "户外-1",
+            "url": "./media/crland-xijiang/img_023.webp",
+            "ext": ".webp"
+          }
+        ],
+        "videos": [],
+        "counts": {
+          "images": 23,
+          "videos": 0
+        }
+      }
+    },
+    {
+      "id": "binjiang-1983",
+      "index": "09",
+      "title": "广州滨江尚都 · 船台 1983（空屿洲）全案",
+      "subtitle": "Heritage Renewal Brand VI / Dual System",
+      "categories": [
+        "brand"
+      ],
+      "categoryLabel": "品牌 / 平面",
+      "year": "2025",
+      "span": "wide",
+      "client": "广州滨江尚都",
+      "role": "品牌视觉主创",
+      "summary": "融合工业船台历史文脉与当代滨江艺文气息，统筹“船台 1983 / 空屿洲”与“滨江尚都”双线视觉体系，累计沉淀 57 张完整视觉设计作品。",
+      "highlights": [
+        "船台 1983（空屿洲）23 张特色文脉视觉 + 滨江尚都 34 张全案 VI",
+        "在历史厚重感与现代先锋审美间找到精准平衡"
+      ],
+      "tools": [
+        "Illustrator",
+        "InDesign",
+        "Photoshop"
+      ],
+      "media": {
+        "coverImage": "./media/binjiang-1983/img_001.webp",
+        "coverVideo": null,
+        "images": [
+          {
+            "name": "空屿洲VI-02.jpg",
+            "label": "空屿洲VI-02",
+            "url": "./media/binjiang-1983/img_001.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "空屿洲VI-03.jpg",
+            "label": "空屿洲VI-03",
+            "url": "./media/binjiang-1983/img_002.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "空屿洲VI-04.jpg",
+            "label": "空屿洲VI-04",
+            "url": "./media/binjiang-1983/img_003.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "空屿洲VI-05.jpg",
+            "label": "空屿洲VI-05",
+            "url": "./media/binjiang-1983/img_004.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "空屿洲VI-06.jpg",
+            "label": "空屿洲VI-06",
+            "url": "./media/binjiang-1983/img_005.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "空屿洲VI-07.jpg",
+            "label": "空屿洲VI-07",
+            "url": "./media/binjiang-1983/img_006.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "空屿洲VI-08.jpg",
+            "label": "空屿洲VI-08",
+            "url": "./media/binjiang-1983/img_007.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "空屿洲VI-09.jpg",
+            "label": "空屿洲VI-09",
+            "url": "./media/binjiang-1983/img_008.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "空屿洲VI-10.jpg",
+            "label": "空屿洲VI-10",
+            "url": "./media/binjiang-1983/img_009.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "空屿洲VI-11.jpg",
+            "label": "空屿洲VI-11",
+            "url": "./media/binjiang-1983/img_010.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "空屿洲VI-12.jpg",
+            "label": "空屿洲VI-12",
+            "url": "./media/binjiang-1983/img_011.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "空屿洲VI-13.jpg",
+            "label": "空屿洲VI-13",
+            "url": "./media/binjiang-1983/img_012.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "空屿洲VI-14.jpg",
+            "label": "空屿洲VI-14",
+            "url": "./media/binjiang-1983/img_013.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "空屿洲VI-15.jpg",
+            "label": "空屿洲VI-15",
+            "url": "./media/binjiang-1983/img_014.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "空屿洲VI-16.jpg",
+            "label": "空屿洲VI-16",
+            "url": "./media/binjiang-1983/img_015.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "空屿洲VI-17.jpg",
+            "label": "空屿洲VI-17",
+            "url": "./media/binjiang-1983/img_016.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "空屿洲VI-18.jpg",
+            "label": "空屿洲VI-18",
+            "url": "./media/binjiang-1983/img_017.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "空屿洲VI-19.jpg",
+            "label": "空屿洲VI-19",
+            "url": "./media/binjiang-1983/img_018.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "空屿洲VI-20.jpg",
+            "label": "空屿洲VI-20",
+            "url": "./media/binjiang-1983/img_019.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "空屿洲VI_画板 1.jpg",
+            "label": "空屿洲VI_画板 1",
+            "url": "./media/binjiang-1983/img_020.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "船台系列-1.jpg",
+            "label": "船台系列-1",
+            "url": "./media/binjiang-1983/img_021.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "船台系列-2.jpg",
+            "label": "船台系列-2",
+            "url": "./media/binjiang-1983/img_022.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "船台系列-3.jpg",
+            "label": "船台系列-3",
+            "url": "./media/binjiang-1983/img_023.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-02.jpg",
+            "label": "VI-02",
+            "url": "./media/binjiang-1983/img_024.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-03.jpg",
+            "label": "VI-03",
+            "url": "./media/binjiang-1983/img_025.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-04.jpg",
+            "label": "VI-04",
+            "url": "./media/binjiang-1983/img_026.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-05.jpg",
+            "label": "VI-05",
+            "url": "./media/binjiang-1983/img_027.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-06.jpg",
+            "label": "VI-06",
+            "url": "./media/binjiang-1983/img_028.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-07.jpg",
+            "label": "VI-07",
+            "url": "./media/binjiang-1983/img_029.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-08.jpg",
+            "label": "VI-08",
+            "url": "./media/binjiang-1983/img_030.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-09.jpg",
+            "label": "VI-09",
+            "url": "./media/binjiang-1983/img_031.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-10.jpg",
+            "label": "VI-10",
+            "url": "./media/binjiang-1983/img_032.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-11.jpg",
+            "label": "VI-11",
+            "url": "./media/binjiang-1983/img_033.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-12.jpg",
+            "label": "VI-12",
+            "url": "./media/binjiang-1983/img_034.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-13.jpg",
+            "label": "VI-13",
+            "url": "./media/binjiang-1983/img_035.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-14.jpg",
+            "label": "VI-14",
+            "url": "./media/binjiang-1983/img_036.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-15.jpg",
+            "label": "VI-15",
+            "url": "./media/binjiang-1983/img_037.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-16.jpg",
+            "label": "VI-16",
+            "url": "./media/binjiang-1983/img_038.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-17.jpg",
+            "label": "VI-17",
+            "url": "./media/binjiang-1983/img_039.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-18.jpg",
+            "label": "VI-18",
+            "url": "./media/binjiang-1983/img_040.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-19.jpg",
+            "label": "VI-19",
+            "url": "./media/binjiang-1983/img_041.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-20.jpg",
+            "label": "VI-20",
+            "url": "./media/binjiang-1983/img_042.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-21.jpg",
+            "label": "VI-21",
+            "url": "./media/binjiang-1983/img_043.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-22.jpg",
+            "label": "VI-22",
+            "url": "./media/binjiang-1983/img_044.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-23.jpg",
+            "label": "VI-23",
+            "url": "./media/binjiang-1983/img_045.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-24.jpg",
+            "label": "VI-24",
+            "url": "./media/binjiang-1983/img_046.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-25.jpg",
+            "label": "VI-25",
+            "url": "./media/binjiang-1983/img_047.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-26.jpg",
+            "label": "VI-26",
+            "url": "./media/binjiang-1983/img_048.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-27.jpg",
+            "label": "VI-27",
+            "url": "./media/binjiang-1983/img_049.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-28.jpg",
+            "label": "VI-28",
+            "url": "./media/binjiang-1983/img_050.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI_画板 1.jpg",
+            "label": "VI_画板 1",
+            "url": "./media/binjiang-1983/img_051.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "主画面-1.jpg",
+            "label": "主画面-1",
+            "url": "./media/binjiang-1983/img_052.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "未标题-1.jpg",
+            "label": "未标题-1",
+            "url": "./media/binjiang-1983/img_053.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "系列单片-1.jpg",
+            "label": "系列单片-1",
+            "url": "./media/binjiang-1983/img_054.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "系列单片-2.jpg",
+            "label": "系列单片-2",
+            "url": "./media/binjiang-1983/img_055.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "系列单片-3.jpg",
+            "label": "系列单片-3",
+            "url": "./media/binjiang-1983/img_056.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "设计大赛.jpg",
+            "label": "设计大赛",
+            "url": "./media/binjiang-1983/img_057.webp",
+            "ext": ".webp"
+          }
+        ],
+        "videos": [],
+        "counts": {
+          "images": 57,
+          "videos": 0
+        }
+      }
+    },
+    {
+      "id": "ai-experimental-0809",
+      "index": "10",
+      "title": "AI 先锋影像实验短片（0809）",
+      "subtitle": "AI Generative Film / Visual Experiment",
+      "categories": [
+        "ai"
+      ],
+      "categoryLabel": "AI 视频创作",
+      "year": "2026",
+      "span": "normal",
+      "client": "AI VISUAL EXPERIMENT",
+      "role": "AI 导演 / 视觉生成 / 后期剪辑",
+      "summary": "独立创作的 AI 生成式影像实验作品，探索高对比暗调光影、镜头语言控制与生成式影像节奏剪辑。",
+      "highlights": [
+        "全流程 AI 视频生成与后期音画精剪",
+        "支持公网高速在线播放"
+      ],
+      "tools": [
+        "AI Video Generation",
+        "Premiere Pro",
+        "After Effects"
+      ],
+      "media": {
+        "coverImage": null,
+        "coverVideo": null,
+        "images": [],
+        "videos": [
+          {
+            "label": "AI 先锋影像实验短片（0809）",
+            "bvid": "",
+            "embedUrl": "",
+            "sizeMB": 0
+          }
+        ],
+        "counts": {
+          "images": 0,
+          "videos": 1
+        }
+      }
+    }
+  ],
+  "archive": [
+    {
+      "id": "zhongshan-greentown",
+      "index": "11",
+      "title": "中山绿城",
+      "subtitle": "Brand Visual Identity / Archive",
+      "categories": [
+        "brand"
+      ],
+      "categoryLabel": "品牌 VI · 动态视频",
+      "year": "2025",
+      "client": "中山绿城",
+      "role": "品牌视觉设计",
+      "summary": "中山绿城完整品牌视觉延展档案，共收录 25 张高清平面作品。",
+      "highlights": [
+        "收录 25 张全套视觉物料",
+        "完整呈现主视觉、排版系统与延展规范"
+      ],
+      "tools": [
+        "Illustrator",
+        "Photoshop",
+        "Brand VI"
+      ],
+      "media": {
+        "coverImage": "./media/zhongshan-greentown/img_001.webp",
+        "coverVideo": null,
+        "images": [
+          {
+            "name": "VI-01.jpg",
+            "label": "VI-01",
+            "url": "./media/zhongshan-greentown/img_001.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-02.jpg",
+            "label": "VI-02",
+            "url": "./media/zhongshan-greentown/img_002.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-03.jpg",
+            "label": "VI-03",
+            "url": "./media/zhongshan-greentown/img_003.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-04.jpg",
+            "label": "VI-04",
+            "url": "./media/zhongshan-greentown/img_004.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-05.jpg",
+            "label": "VI-05",
+            "url": "./media/zhongshan-greentown/img_005.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-06.jpg",
+            "label": "VI-06",
+            "url": "./media/zhongshan-greentown/img_006.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-07.jpg",
+            "label": "VI-07",
+            "url": "./media/zhongshan-greentown/img_007.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-08.jpg",
+            "label": "VI-08",
+            "url": "./media/zhongshan-greentown/img_008.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-09.jpg",
+            "label": "VI-09",
+            "url": "./media/zhongshan-greentown/img_009.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-10.jpg",
+            "label": "VI-10",
+            "url": "./media/zhongshan-greentown/img_010.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-11.jpg",
+            "label": "VI-11",
+            "url": "./media/zhongshan-greentown/img_011.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-12.jpg",
+            "label": "VI-12",
+            "url": "./media/zhongshan-greentown/img_012.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-13.jpg",
+            "label": "VI-13",
+            "url": "./media/zhongshan-greentown/img_013.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-14.jpg",
+            "label": "VI-14",
+            "url": "./media/zhongshan-greentown/img_014.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-15.jpg",
+            "label": "VI-15",
+            "url": "./media/zhongshan-greentown/img_015.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-16.jpg",
+            "label": "VI-16",
+            "url": "./media/zhongshan-greentown/img_016.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-17.jpg",
+            "label": "VI-17",
+            "url": "./media/zhongshan-greentown/img_017.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-18.jpg",
+            "label": "VI-18",
+            "url": "./media/zhongshan-greentown/img_018.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-19.jpg",
+            "label": "VI-19",
+            "url": "./media/zhongshan-greentown/img_019.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-20.jpg",
+            "label": "VI-20",
+            "url": "./media/zhongshan-greentown/img_020.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-21.jpg",
+            "label": "VI-21",
+            "url": "./media/zhongshan-greentown/img_021.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-22.jpg",
+            "label": "VI-22",
+            "url": "./media/zhongshan-greentown/img_022.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "品牌单图-1.jpg",
+            "label": "品牌单图-1",
+            "url": "./media/zhongshan-greentown/img_023.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "品牌单图-2.jpg",
+            "label": "品牌单图-2",
+            "url": "./media/zhongshan-greentown/img_024.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "品牌单图-3.jpg",
+            "label": "品牌单图-3",
+            "url": "./media/zhongshan-greentown/img_025.webp",
+            "ext": ".webp"
+          }
+        ],
+        "videos": [],
+        "counts": {
+          "images": 25,
+          "videos": 0
+        }
+      }
+    },
+    {
+      "id": "shkp",
+      "index": "12",
+      "title": "新鸿基",
+      "subtitle": "Brand Visual Identity / Archive",
+      "categories": [
+        "brand"
+      ],
+      "categoryLabel": "品牌 VI 全案",
+      "year": "2025",
+      "client": "新鸿基",
+      "role": "品牌视觉设计",
+      "summary": "新鸿基完整品牌视觉延展档案，共收录 21 张高清平面作品。",
+      "highlights": [
+        "收录 21 张全套视觉物料",
+        "完整呈现主视觉、排版系统与延展规范"
+      ],
+      "tools": [
+        "Illustrator",
+        "Photoshop",
+        "Brand VI"
+      ],
+      "media": {
+        "coverImage": "./media/shkp/img_001.webp",
+        "coverVideo": null,
+        "images": [
+          {
+            "name": "01.jpg",
+            "label": "01",
+            "url": "./media/shkp/img_001.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "02.jpg",
+            "label": "02",
+            "url": "./media/shkp/img_002.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-01.jpg",
+            "label": "VI-01",
+            "url": "./media/shkp/img_003.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-02.jpg",
+            "label": "VI-02",
+            "url": "./media/shkp/img_004.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-03.jpg",
+            "label": "VI-03",
+            "url": "./media/shkp/img_005.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-04.jpg",
+            "label": "VI-04",
+            "url": "./media/shkp/img_006.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-05.jpg",
+            "label": "VI-05",
+            "url": "./media/shkp/img_007.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-06.jpg",
+            "label": "VI-06",
+            "url": "./media/shkp/img_008.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-07.jpg",
+            "label": "VI-07",
+            "url": "./media/shkp/img_009.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-08.jpg",
+            "label": "VI-08",
+            "url": "./media/shkp/img_010.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-09.jpg",
+            "label": "VI-09",
+            "url": "./media/shkp/img_011.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-10.jpg",
+            "label": "VI-10",
+            "url": "./media/shkp/img_012.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-11.jpg",
+            "label": "VI-11",
+            "url": "./media/shkp/img_013.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-12.jpg",
+            "label": "VI-12",
+            "url": "./media/shkp/img_014.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-13.jpg",
+            "label": "VI-13",
+            "url": "./media/shkp/img_015.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-14.jpg",
+            "label": "VI-14",
+            "url": "./media/shkp/img_016.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-15.jpg",
+            "label": "VI-15",
+            "url": "./media/shkp/img_017.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-16.jpg",
+            "label": "VI-16",
+            "url": "./media/shkp/img_018.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-17.jpg",
+            "label": "VI-17",
+            "url": "./media/shkp/img_019.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-18.jpg",
+            "label": "VI-18",
+            "url": "./media/shkp/img_020.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-19.jpg",
+            "label": "VI-19",
+            "url": "./media/shkp/img_021.webp",
+            "ext": ".webp"
+          }
+        ],
+        "videos": [],
+        "counts": {
+          "images": 21,
+          "videos": 0
+        }
+      }
+    },
+    {
+      "id": "yuexiu-nansha",
+      "index": "13",
+      "title": "越秀 · 南沙项目",
+      "subtitle": "Brand Visual Identity / Archive",
+      "categories": [
+        "brand"
+      ],
+      "categoryLabel": "品牌 VI · 动态视频",
+      "year": "2025",
+      "client": "越秀 · 南沙项目",
+      "role": "品牌视觉设计",
+      "summary": "越秀 · 南沙项目完整品牌视觉延展档案，共收录 27 张高清平面作品。",
+      "highlights": [
+        "收录 27 张全套视觉物料",
+        "完整呈现主视觉、排版系统与延展规范"
+      ],
+      "tools": [
+        "Illustrator",
+        "Photoshop",
+        "Brand VI"
+      ],
+      "media": {
+        "coverImage": "./media/yuexiu-nansha/img_001.webp",
+        "coverVideo": null,
+        "images": [
+          {
+            "name": "VI-02.jpg",
+            "label": "VI-02",
+            "url": "./media/yuexiu-nansha/img_001.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-03.jpg",
+            "label": "VI-03",
+            "url": "./media/yuexiu-nansha/img_002.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-04.jpg",
+            "label": "VI-04",
+            "url": "./media/yuexiu-nansha/img_003.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-05.jpg",
+            "label": "VI-05",
+            "url": "./media/yuexiu-nansha/img_004.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-07.jpg",
+            "label": "VI-07",
+            "url": "./media/yuexiu-nansha/img_005.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-08.jpg",
+            "label": "VI-08",
+            "url": "./media/yuexiu-nansha/img_006.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-09.jpg",
+            "label": "VI-09",
+            "url": "./media/yuexiu-nansha/img_007.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-10.jpg",
+            "label": "VI-10",
+            "url": "./media/yuexiu-nansha/img_008.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-11.jpg",
+            "label": "VI-11",
+            "url": "./media/yuexiu-nansha/img_009.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-12.jpg",
+            "label": "VI-12",
+            "url": "./media/yuexiu-nansha/img_010.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-13.jpg",
+            "label": "VI-13",
+            "url": "./media/yuexiu-nansha/img_011.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-14.jpg",
+            "label": "VI-14",
+            "url": "./media/yuexiu-nansha/img_012.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-15.jpg",
+            "label": "VI-15",
+            "url": "./media/yuexiu-nansha/img_013.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-16.jpg",
+            "label": "VI-16",
+            "url": "./media/yuexiu-nansha/img_014.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-18.jpg",
+            "label": "VI-18",
+            "url": "./media/yuexiu-nansha/img_015.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-19.jpg",
+            "label": "VI-19",
+            "url": "./media/yuexiu-nansha/img_016.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-20.jpg",
+            "label": "VI-20",
+            "url": "./media/yuexiu-nansha/img_017.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-21.jpg",
+            "label": "VI-21",
+            "url": "./media/yuexiu-nansha/img_018.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-22.jpg",
+            "label": "VI-22",
+            "url": "./media/yuexiu-nansha/img_019.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-23.jpg",
+            "label": "VI-23",
+            "url": "./media/yuexiu-nansha/img_020.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-24.jpg",
+            "label": "VI-24",
+            "url": "./media/yuexiu-nansha/img_021.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-25.jpg",
+            "label": "VI-25",
+            "url": "./media/yuexiu-nansha/img_022.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-26.jpg",
+            "label": "VI-26",
+            "url": "./media/yuexiu-nansha/img_023.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-27.jpg",
+            "label": "VI-27",
+            "url": "./media/yuexiu-nansha/img_024.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-28.jpg",
+            "label": "VI-28",
+            "url": "./media/yuexiu-nansha/img_025.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-29.jpg",
+            "label": "VI-29",
+            "url": "./media/yuexiu-nansha/img_026.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI_画板 1.jpg",
+            "label": "VI_画板 1",
+            "url": "./media/yuexiu-nansha/img_027.webp",
+            "ext": ".webp"
+          }
+        ],
+        "videos": [],
+        "counts": {
+          "images": 27,
+          "videos": 0
+        }
+      }
+    },
+    {
+      "id": "galaxy-luobian",
+      "index": "14",
+      "title": "星河 · 罗边项目",
+      "subtitle": "Brand Visual Identity / Archive",
+      "categories": [
+        "brand"
+      ],
+      "categoryLabel": "品牌 VI · 6 条视频",
+      "year": "2025",
+      "client": "星河 · 罗边项目",
+      "role": "品牌视觉设计",
+      "summary": "星河 · 罗边项目完整品牌视觉延展档案，共收录 30 张高清平面作品。",
+      "highlights": [
+        "收录 30 张全套视觉物料",
+        "完整呈现主视觉、排版系统与延展规范"
+      ],
+      "tools": [
+        "Illustrator",
+        "Photoshop",
+        "Brand VI"
+      ],
+      "media": {
+        "coverImage": "./media/galaxy-luobian/img_001.webp",
+        "coverVideo": null,
+        "images": [
+          {
+            "name": "VI -02.jpg",
+            "label": "VI -02",
+            "url": "./media/galaxy-luobian/img_001.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI -03.jpg",
+            "label": "VI -03",
+            "url": "./media/galaxy-luobian/img_002.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI -04.jpg",
+            "label": "VI -04",
+            "url": "./media/galaxy-luobian/img_003.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI -05.jpg",
+            "label": "VI -05",
+            "url": "./media/galaxy-luobian/img_004.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI -06.jpg",
+            "label": "VI -06",
+            "url": "./media/galaxy-luobian/img_005.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI -07.jpg",
+            "label": "VI -07",
+            "url": "./media/galaxy-luobian/img_006.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI -08.jpg",
+            "label": "VI -08",
+            "url": "./media/galaxy-luobian/img_007.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI -09.jpg",
+            "label": "VI -09",
+            "url": "./media/galaxy-luobian/img_008.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI -10.jpg",
+            "label": "VI -10",
+            "url": "./media/galaxy-luobian/img_009.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI -11.jpg",
+            "label": "VI -11",
+            "url": "./media/galaxy-luobian/img_010.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI -12.jpg",
+            "label": "VI -12",
+            "url": "./media/galaxy-luobian/img_011.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI -13.jpg",
+            "label": "VI -13",
+            "url": "./media/galaxy-luobian/img_012.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI -14.jpg",
+            "label": "VI -14",
+            "url": "./media/galaxy-luobian/img_013.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI -15.jpg",
+            "label": "VI -15",
+            "url": "./media/galaxy-luobian/img_014.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI -16.jpg",
+            "label": "VI -16",
+            "url": "./media/galaxy-luobian/img_015.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI -17.jpg",
+            "label": "VI -17",
+            "url": "./media/galaxy-luobian/img_016.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI -18.jpg",
+            "label": "VI -18",
+            "url": "./media/galaxy-luobian/img_017.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI -19.jpg",
+            "label": "VI -19",
+            "url": "./media/galaxy-luobian/img_018.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI -20.jpg",
+            "label": "VI -20",
+            "url": "./media/galaxy-luobian/img_019.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI -21.jpg",
+            "label": "VI -21",
+            "url": "./media/galaxy-luobian/img_020.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI -22.jpg",
+            "label": "VI -22",
+            "url": "./media/galaxy-luobian/img_021.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI -23.jpg",
+            "label": "VI -23",
+            "url": "./media/galaxy-luobian/img_022.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI -24.jpg",
+            "label": "VI -24",
+            "url": "./media/galaxy-luobian/img_023.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI -25.jpg",
+            "label": "VI -25",
+            "url": "./media/galaxy-luobian/img_024.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI -26.jpg",
+            "label": "VI -26",
+            "url": "./media/galaxy-luobian/img_025.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI -27.jpg",
+            "label": "VI -27",
+            "url": "./media/galaxy-luobian/img_026.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI -28.jpg",
+            "label": "VI -28",
+            "url": "./media/galaxy-luobian/img_027.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI -29.jpg",
+            "label": "VI -29",
+            "url": "./media/galaxy-luobian/img_028.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI -30.jpg",
+            "label": "VI -30",
+            "url": "./media/galaxy-luobian/img_029.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI _画板 1.jpg",
+            "label": "VI _画板 1",
+            "url": "./media/galaxy-luobian/img_030.webp",
+            "ext": ".webp"
+          }
+        ],
+        "videos": [],
+        "counts": {
+          "images": 30,
+          "videos": 0
+        }
+      }
+    },
+    {
+      "id": "galaxy-hengli",
+      "index": "15",
+      "title": "星河 · 横沥项目",
+      "subtitle": "Brand Visual Identity / Archive",
+      "categories": [
+        "brand"
+      ],
+      "categoryLabel": "品牌 VI 全案",
+      "year": "2025",
+      "client": "星河 · 横沥项目",
+      "role": "品牌视觉设计",
+      "summary": "星河 · 横沥项目完整品牌视觉延展档案，共收录 31 张高清平面作品。",
+      "highlights": [
+        "收录 31 张全套视觉物料",
+        "完整呈现主视觉、排版系统与延展规范"
+      ],
+      "tools": [
+        "Illustrator",
+        "Photoshop",
+        "Brand VI"
+      ],
+      "media": {
+        "coverImage": "./media/galaxy-hengli/img_001.webp",
+        "coverVideo": null,
+        "images": [
+          {
+            "name": "VI-01.jpg",
+            "label": "VI-01",
+            "url": "./media/galaxy-hengli/img_001.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-02.jpg",
+            "label": "VI-02",
+            "url": "./media/galaxy-hengli/img_002.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-03.jpg",
+            "label": "VI-03",
+            "url": "./media/galaxy-hengli/img_003.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-04.jpg",
+            "label": "VI-04",
+            "url": "./media/galaxy-hengli/img_004.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-05.jpg",
+            "label": "VI-05",
+            "url": "./media/galaxy-hengli/img_005.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-06.jpg",
+            "label": "VI-06",
+            "url": "./media/galaxy-hengli/img_006.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-07.jpg",
+            "label": "VI-07",
+            "url": "./media/galaxy-hengli/img_007.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-08.jpg",
+            "label": "VI-08",
+            "url": "./media/galaxy-hengli/img_008.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-09.jpg",
+            "label": "VI-09",
+            "url": "./media/galaxy-hengli/img_009.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-10.jpg",
+            "label": "VI-10",
+            "url": "./media/galaxy-hengli/img_010.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-11.jpg",
+            "label": "VI-11",
+            "url": "./media/galaxy-hengli/img_011.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-12.jpg",
+            "label": "VI-12",
+            "url": "./media/galaxy-hengli/img_012.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-13.jpg",
+            "label": "VI-13",
+            "url": "./media/galaxy-hengli/img_013.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-14.jpg",
+            "label": "VI-14",
+            "url": "./media/galaxy-hengli/img_014.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-15.jpg",
+            "label": "VI-15",
+            "url": "./media/galaxy-hengli/img_015.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-16.jpg",
+            "label": "VI-16",
+            "url": "./media/galaxy-hengli/img_016.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-17.jpg",
+            "label": "VI-17",
+            "url": "./media/galaxy-hengli/img_017.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-18.jpg",
+            "label": "VI-18",
+            "url": "./media/galaxy-hengli/img_018.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-19.jpg",
+            "label": "VI-19",
+            "url": "./media/galaxy-hengli/img_019.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-20.jpg",
+            "label": "VI-20",
+            "url": "./media/galaxy-hengli/img_020.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-21.jpg",
+            "label": "VI-21",
+            "url": "./media/galaxy-hengli/img_021.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-22.jpg",
+            "label": "VI-22",
+            "url": "./media/galaxy-hengli/img_022.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-23.jpg",
+            "label": "VI-23",
+            "url": "./media/galaxy-hengli/img_023.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-24.jpg",
+            "label": "VI-24",
+            "url": "./media/galaxy-hengli/img_024.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-25.jpg",
+            "label": "VI-25",
+            "url": "./media/galaxy-hengli/img_025.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-26.jpg",
+            "label": "VI-26",
+            "url": "./media/galaxy-hengli/img_026.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-27.jpg",
+            "label": "VI-27",
+            "url": "./media/galaxy-hengli/img_027.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-28.jpg",
+            "label": "VI-28",
+            "url": "./media/galaxy-hengli/img_028.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-29.jpg",
+            "label": "VI-29",
+            "url": "./media/galaxy-hengli/img_029.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-30.jpg",
+            "label": "VI-30",
+            "url": "./media/galaxy-hengli/img_030.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-31.jpg",
+            "label": "VI-31",
+            "url": "./media/galaxy-hengli/img_031.webp",
+            "ext": ".webp"
+          }
+        ],
+        "videos": [],
+        "counts": {
+          "images": 31,
+          "videos": 0
+        }
+      }
+    },
+    {
+      "id": "kaikong-yunjin",
+      "index": "16",
+      "title": "开控云锦",
+      "subtitle": "Brand Visual Identity / Archive",
+      "categories": [
+        "brand"
+      ],
+      "categoryLabel": "品牌 VI · 动态视频",
+      "year": "2025",
+      "client": "开控云锦",
+      "role": "品牌视觉设计",
+      "summary": "开控云锦完整品牌视觉延展档案，共收录 28 张高清平面作品。",
+      "highlights": [
+        "收录 28 张全套视觉物料",
+        "完整呈现主视觉、排版系统与延展规范"
+      ],
+      "tools": [
+        "Illustrator",
+        "Photoshop",
+        "Brand VI"
+      ],
+      "media": {
+        "coverImage": "./media/kaikong-yunjin/img_001.webp",
+        "coverVideo": null,
+        "images": [
+          {
+            "name": "VI-02.jpg",
+            "label": "VI-02",
+            "url": "./media/kaikong-yunjin/img_001.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-03.jpg",
+            "label": "VI-03",
+            "url": "./media/kaikong-yunjin/img_002.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-04.jpg",
+            "label": "VI-04",
+            "url": "./media/kaikong-yunjin/img_003.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-05.jpg",
+            "label": "VI-05",
+            "url": "./media/kaikong-yunjin/img_004.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-06.jpg",
+            "label": "VI-06",
+            "url": "./media/kaikong-yunjin/img_005.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-07.jpg",
+            "label": "VI-07",
+            "url": "./media/kaikong-yunjin/img_006.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-08.jpg",
+            "label": "VI-08",
+            "url": "./media/kaikong-yunjin/img_007.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-09.jpg",
+            "label": "VI-09",
+            "url": "./media/kaikong-yunjin/img_008.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-10.jpg",
+            "label": "VI-10",
+            "url": "./media/kaikong-yunjin/img_009.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-11.jpg",
+            "label": "VI-11",
+            "url": "./media/kaikong-yunjin/img_010.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-12.jpg",
+            "label": "VI-12",
+            "url": "./media/kaikong-yunjin/img_011.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-13.jpg",
+            "label": "VI-13",
+            "url": "./media/kaikong-yunjin/img_012.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-14.jpg",
+            "label": "VI-14",
+            "url": "./media/kaikong-yunjin/img_013.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-15.jpg",
+            "label": "VI-15",
+            "url": "./media/kaikong-yunjin/img_014.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-16.jpg",
+            "label": "VI-16",
+            "url": "./media/kaikong-yunjin/img_015.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-17.jpg",
+            "label": "VI-17",
+            "url": "./media/kaikong-yunjin/img_016.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-18.jpg",
+            "label": "VI-18",
+            "url": "./media/kaikong-yunjin/img_017.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-19.jpg",
+            "label": "VI-19",
+            "url": "./media/kaikong-yunjin/img_018.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-20.jpg",
+            "label": "VI-20",
+            "url": "./media/kaikong-yunjin/img_019.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-21.jpg",
+            "label": "VI-21",
+            "url": "./media/kaikong-yunjin/img_020.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-22.jpg",
+            "label": "VI-22",
+            "url": "./media/kaikong-yunjin/img_021.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-23.jpg",
+            "label": "VI-23",
+            "url": "./media/kaikong-yunjin/img_022.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-24.jpg",
+            "label": "VI-24",
+            "url": "./media/kaikong-yunjin/img_023.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-25.jpg",
+            "label": "VI-25",
+            "url": "./media/kaikong-yunjin/img_024.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI_画板 1.jpg",
+            "label": "VI_画板 1",
+            "url": "./media/kaikong-yunjin/img_025.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "单图-1.jpg",
+            "label": "单图-1",
+            "url": "./media/kaikong-yunjin/img_026.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "单图-2.jpg",
+            "label": "单图-2",
+            "url": "./media/kaikong-yunjin/img_027.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "单图-3.jpg",
+            "label": "单图-3",
+            "url": "./media/kaikong-yunjin/img_028.webp",
+            "ext": ".webp"
+          }
+        ],
+        "videos": [],
+        "counts": {
+          "images": 28,
+          "videos": 0
+        }
+      }
+    },
+    {
+      "id": "jinqiao-lingnanyuan",
+      "index": "17",
+      "title": "金侨 · 岭南院",
+      "subtitle": "Brand Visual Identity / Archive",
+      "categories": [
+        "brand"
+      ],
+      "categoryLabel": "品牌 VI 全案（45 图）",
+      "year": "2025",
+      "client": "金侨 · 岭南院",
+      "role": "品牌视觉设计",
+      "summary": "金侨 · 岭南院完整品牌视觉延展档案，共收录 45 张高清平面作品。",
+      "highlights": [
+        "收录 45 张全套视觉物料",
+        "完整呈现主视觉、排版系统与延展规范"
+      ],
+      "tools": [
+        "Illustrator",
+        "Photoshop",
+        "Brand VI"
+      ],
+      "media": {
+        "coverImage": "./media/jinqiao-lingnanyuan/img_001.webp",
+        "coverVideo": null,
+        "images": [
+          {
+            "name": "VI-02.jpg",
+            "label": "VI-02",
+            "url": "./media/jinqiao-lingnanyuan/img_001.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-03.jpg",
+            "label": "VI-03",
+            "url": "./media/jinqiao-lingnanyuan/img_002.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-04.jpg",
+            "label": "VI-04",
+            "url": "./media/jinqiao-lingnanyuan/img_003.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-05.jpg",
+            "label": "VI-05",
+            "url": "./media/jinqiao-lingnanyuan/img_004.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-06.jpg",
+            "label": "VI-06",
+            "url": "./media/jinqiao-lingnanyuan/img_005.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-07.jpg",
+            "label": "VI-07",
+            "url": "./media/jinqiao-lingnanyuan/img_006.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-08.jpg",
+            "label": "VI-08",
+            "url": "./media/jinqiao-lingnanyuan/img_007.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-09.jpg",
+            "label": "VI-09",
+            "url": "./media/jinqiao-lingnanyuan/img_008.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-10.jpg",
+            "label": "VI-10",
+            "url": "./media/jinqiao-lingnanyuan/img_009.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-11.jpg",
+            "label": "VI-11",
+            "url": "./media/jinqiao-lingnanyuan/img_010.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-12.jpg",
+            "label": "VI-12",
+            "url": "./media/jinqiao-lingnanyuan/img_011.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-13.jpg",
+            "label": "VI-13",
+            "url": "./media/jinqiao-lingnanyuan/img_012.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-14.jpg",
+            "label": "VI-14",
+            "url": "./media/jinqiao-lingnanyuan/img_013.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-15.jpg",
+            "label": "VI-15",
+            "url": "./media/jinqiao-lingnanyuan/img_014.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-16.jpg",
+            "label": "VI-16",
+            "url": "./media/jinqiao-lingnanyuan/img_015.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-17.jpg",
+            "label": "VI-17",
+            "url": "./media/jinqiao-lingnanyuan/img_016.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-18.jpg",
+            "label": "VI-18",
+            "url": "./media/jinqiao-lingnanyuan/img_017.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-19.jpg",
+            "label": "VI-19",
+            "url": "./media/jinqiao-lingnanyuan/img_018.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-20.jpg",
+            "label": "VI-20",
+            "url": "./media/jinqiao-lingnanyuan/img_019.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-21.jpg",
+            "label": "VI-21",
+            "url": "./media/jinqiao-lingnanyuan/img_020.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-22.jpg",
+            "label": "VI-22",
+            "url": "./media/jinqiao-lingnanyuan/img_021.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-23.jpg",
+            "label": "VI-23",
+            "url": "./media/jinqiao-lingnanyuan/img_022.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-24.jpg",
+            "label": "VI-24",
+            "url": "./media/jinqiao-lingnanyuan/img_023.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-25.jpg",
+            "label": "VI-25",
+            "url": "./media/jinqiao-lingnanyuan/img_024.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-26.jpg",
+            "label": "VI-26",
+            "url": "./media/jinqiao-lingnanyuan/img_025.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-27.jpg",
+            "label": "VI-27",
+            "url": "./media/jinqiao-lingnanyuan/img_026.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-28.jpg",
+            "label": "VI-28",
+            "url": "./media/jinqiao-lingnanyuan/img_027.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-29.jpg",
+            "label": "VI-29",
+            "url": "./media/jinqiao-lingnanyuan/img_028.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-30.jpg",
+            "label": "VI-30",
+            "url": "./media/jinqiao-lingnanyuan/img_029.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-31.jpg",
+            "label": "VI-31",
+            "url": "./media/jinqiao-lingnanyuan/img_030.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-32.jpg",
+            "label": "VI-32",
+            "url": "./media/jinqiao-lingnanyuan/img_031.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-33.jpg",
+            "label": "VI-33",
+            "url": "./media/jinqiao-lingnanyuan/img_032.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-34.jpg",
+            "label": "VI-34",
+            "url": "./media/jinqiao-lingnanyuan/img_033.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-35.jpg",
+            "label": "VI-35",
+            "url": "./media/jinqiao-lingnanyuan/img_034.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-36.jpg",
+            "label": "VI-36",
+            "url": "./media/jinqiao-lingnanyuan/img_035.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-37.jpg",
+            "label": "VI-37",
+            "url": "./media/jinqiao-lingnanyuan/img_036.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-38.jpg",
+            "label": "VI-38",
+            "url": "./media/jinqiao-lingnanyuan/img_037.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-39.jpg",
+            "label": "VI-39",
+            "url": "./media/jinqiao-lingnanyuan/img_038.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-40.jpg",
+            "label": "VI-40",
+            "url": "./media/jinqiao-lingnanyuan/img_039.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-41.jpg",
+            "label": "VI-41",
+            "url": "./media/jinqiao-lingnanyuan/img_040.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-42.jpg",
+            "label": "VI-42",
+            "url": "./media/jinqiao-lingnanyuan/img_041.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-43.jpg",
+            "label": "VI-43",
+            "url": "./media/jinqiao-lingnanyuan/img_042.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-44.jpg",
+            "label": "VI-44",
+            "url": "./media/jinqiao-lingnanyuan/img_043.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-45.jpg",
+            "label": "VI-45",
+            "url": "./media/jinqiao-lingnanyuan/img_044.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI_画板 1.jpg",
+            "label": "VI_画板 1",
+            "url": "./media/jinqiao-lingnanyuan/img_045.webp",
+            "ext": ".webp"
+          }
+        ],
+        "videos": [],
+        "counts": {
+          "images": 45,
+          "videos": 0
+        }
+      }
+    },
+    {
+      "id": "zhuhai-ruimeng",
+      "index": "18",
+      "title": "珠海 · 瑞萌",
+      "subtitle": "Brand Visual Identity / Archive",
+      "categories": [
+        "brand"
+      ],
+      "categoryLabel": "品牌 VI 全案（36 图）",
+      "year": "2025",
+      "client": "珠海 · 瑞萌",
+      "role": "品牌视觉设计",
+      "summary": "珠海 · 瑞萌完整品牌视觉延展档案，共收录 36 张高清平面作品。",
+      "highlights": [
+        "收录 36 张全套视觉物料",
+        "完整呈现主视觉、排版系统与延展规范"
+      ],
+      "tools": [
+        "Illustrator",
+        "Photoshop",
+        "Brand VI"
+      ],
+      "media": {
+        "coverImage": "./media/zhuhai-ruimeng/img_001.webp",
+        "coverVideo": null,
+        "images": [
+          {
+            "name": "VI-02.jpg",
+            "label": "VI-02",
+            "url": "./media/zhuhai-ruimeng/img_001.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-03.jpg",
+            "label": "VI-03",
+            "url": "./media/zhuhai-ruimeng/img_002.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-04.jpg",
+            "label": "VI-04",
+            "url": "./media/zhuhai-ruimeng/img_003.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-05.jpg",
+            "label": "VI-05",
+            "url": "./media/zhuhai-ruimeng/img_004.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-06.jpg",
+            "label": "VI-06",
+            "url": "./media/zhuhai-ruimeng/img_005.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-07.jpg",
+            "label": "VI-07",
+            "url": "./media/zhuhai-ruimeng/img_006.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-08.jpg",
+            "label": "VI-08",
+            "url": "./media/zhuhai-ruimeng/img_007.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-09.jpg",
+            "label": "VI-09",
+            "url": "./media/zhuhai-ruimeng/img_008.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-10.jpg",
+            "label": "VI-10",
+            "url": "./media/zhuhai-ruimeng/img_009.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-11.jpg",
+            "label": "VI-11",
+            "url": "./media/zhuhai-ruimeng/img_010.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-12.jpg",
+            "label": "VI-12",
+            "url": "./media/zhuhai-ruimeng/img_011.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-16.jpg",
+            "label": "VI-16",
+            "url": "./media/zhuhai-ruimeng/img_012.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-17.jpg",
+            "label": "VI-17",
+            "url": "./media/zhuhai-ruimeng/img_013.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-18.jpg",
+            "label": "VI-18",
+            "url": "./media/zhuhai-ruimeng/img_014.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-19.jpg",
+            "label": "VI-19",
+            "url": "./media/zhuhai-ruimeng/img_015.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-20.jpg",
+            "label": "VI-20",
+            "url": "./media/zhuhai-ruimeng/img_016.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-21.jpg",
+            "label": "VI-21",
+            "url": "./media/zhuhai-ruimeng/img_017.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-22.jpg",
+            "label": "VI-22",
+            "url": "./media/zhuhai-ruimeng/img_018.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-23.jpg",
+            "label": "VI-23",
+            "url": "./media/zhuhai-ruimeng/img_019.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-24.jpg",
+            "label": "VI-24",
+            "url": "./media/zhuhai-ruimeng/img_020.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-25.jpg",
+            "label": "VI-25",
+            "url": "./media/zhuhai-ruimeng/img_021.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-26.jpg",
+            "label": "VI-26",
+            "url": "./media/zhuhai-ruimeng/img_022.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-27.jpg",
+            "label": "VI-27",
+            "url": "./media/zhuhai-ruimeng/img_023.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-28.jpg",
+            "label": "VI-28",
+            "url": "./media/zhuhai-ruimeng/img_024.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-29.jpg",
+            "label": "VI-29",
+            "url": "./media/zhuhai-ruimeng/img_025.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-30.jpg",
+            "label": "VI-30",
+            "url": "./media/zhuhai-ruimeng/img_026.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-31.jpg",
+            "label": "VI-31",
+            "url": "./media/zhuhai-ruimeng/img_027.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-32.jpg",
+            "label": "VI-32",
+            "url": "./media/zhuhai-ruimeng/img_028.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-33.jpg",
+            "label": "VI-33",
+            "url": "./media/zhuhai-ruimeng/img_029.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-34.jpg",
+            "label": "VI-34",
+            "url": "./media/zhuhai-ruimeng/img_030.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-35.jpg",
+            "label": "VI-35",
+            "url": "./media/zhuhai-ruimeng/img_031.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-36.jpg",
+            "label": "VI-36",
+            "url": "./media/zhuhai-ruimeng/img_032.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI_画板 1.jpg",
+            "label": "VI_画板 1",
+            "url": "./media/zhuhai-ruimeng/img_033.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "业态单图-1.jpg",
+            "label": "业态单图-1",
+            "url": "./media/zhuhai-ruimeng/img_034.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "业态单图-2.jpg",
+            "label": "业态单图-2",
+            "url": "./media/zhuhai-ruimeng/img_035.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "业态单图-3.jpg",
+            "label": "业态单图-3",
+            "url": "./media/zhuhai-ruimeng/img_036.webp",
+            "ext": ".webp"
+          }
+        ],
+        "videos": [],
+        "counts": {
+          "images": 36,
+          "videos": 0
+        }
+      }
+    },
+    {
+      "id": "huiyue-dongfang",
+      "index": "19",
+      "title": "汇悦东方项目",
+      "subtitle": "Brand Visual Identity / Archive",
+      "categories": [
+        "brand"
+      ],
+      "categoryLabel": "品牌 VI 全案",
+      "year": "2025",
+      "client": "汇悦东方项目",
+      "role": "品牌视觉设计",
+      "summary": "汇悦东方项目完整品牌视觉延展档案，共收录 27 张高清平面作品。",
+      "highlights": [
+        "收录 27 张全套视觉物料",
+        "完整呈现主视觉、排版系统与延展规范"
+      ],
+      "tools": [
+        "Illustrator",
+        "Photoshop",
+        "Brand VI"
+      ],
+      "media": {
+        "coverImage": "./media/huiyue-dongfang/img_001.webp",
+        "coverVideo": null,
+        "images": [
+          {
+            "name": "VI-02.jpg",
+            "label": "VI-02",
+            "url": "./media/huiyue-dongfang/img_001.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-03.jpg",
+            "label": "VI-03",
+            "url": "./media/huiyue-dongfang/img_002.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-04.jpg",
+            "label": "VI-04",
+            "url": "./media/huiyue-dongfang/img_003.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-05.jpg",
+            "label": "VI-05",
+            "url": "./media/huiyue-dongfang/img_004.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-06.jpg",
+            "label": "VI-06",
+            "url": "./media/huiyue-dongfang/img_005.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-07.jpg",
+            "label": "VI-07",
+            "url": "./media/huiyue-dongfang/img_006.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-08.jpg",
+            "label": "VI-08",
+            "url": "./media/huiyue-dongfang/img_007.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-09.jpg",
+            "label": "VI-09",
+            "url": "./media/huiyue-dongfang/img_008.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-10.jpg",
+            "label": "VI-10",
+            "url": "./media/huiyue-dongfang/img_009.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-11.jpg",
+            "label": "VI-11",
+            "url": "./media/huiyue-dongfang/img_010.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-12.jpg",
+            "label": "VI-12",
+            "url": "./media/huiyue-dongfang/img_011.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-13.jpg",
+            "label": "VI-13",
+            "url": "./media/huiyue-dongfang/img_012.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-14.jpg",
+            "label": "VI-14",
+            "url": "./media/huiyue-dongfang/img_013.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-15.jpg",
+            "label": "VI-15",
+            "url": "./media/huiyue-dongfang/img_014.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-16.jpg",
+            "label": "VI-16",
+            "url": "./media/huiyue-dongfang/img_015.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-17.jpg",
+            "label": "VI-17",
+            "url": "./media/huiyue-dongfang/img_016.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-18.jpg",
+            "label": "VI-18",
+            "url": "./media/huiyue-dongfang/img_017.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-19.jpg",
+            "label": "VI-19",
+            "url": "./media/huiyue-dongfang/img_018.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-20.jpg",
+            "label": "VI-20",
+            "url": "./media/huiyue-dongfang/img_019.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-21.jpg",
+            "label": "VI-21",
+            "url": "./media/huiyue-dongfang/img_020.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-22.jpg",
+            "label": "VI-22",
+            "url": "./media/huiyue-dongfang/img_021.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-23.jpg",
+            "label": "VI-23",
+            "url": "./media/huiyue-dongfang/img_022.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-24.jpg",
+            "label": "VI-24",
+            "url": "./media/huiyue-dongfang/img_023.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-25.jpg",
+            "label": "VI-25",
+            "url": "./media/huiyue-dongfang/img_024.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-26.jpg",
+            "label": "VI-26",
+            "url": "./media/huiyue-dongfang/img_025.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-27.jpg",
+            "label": "VI-27",
+            "url": "./media/huiyue-dongfang/img_026.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI_画板 1.jpg",
+            "label": "VI_画板 1",
+            "url": "./media/huiyue-dongfang/img_027.webp",
+            "ext": ".webp"
+          }
+        ],
+        "videos": [],
+        "counts": {
+          "images": 27,
+          "videos": 0
+        }
+      }
+    },
+    {
+      "id": "jihuayuan",
+      "index": "20",
+      "title": "际华园",
+      "subtitle": "Brand Visual Identity / Archive",
+      "categories": [
+        "brand"
+      ],
+      "categoryLabel": "品牌 VI 全案",
+      "year": "2025",
+      "client": "际华园",
+      "role": "品牌视觉设计",
+      "summary": "际华园完整品牌视觉延展档案，共收录 27 张高清平面作品。",
+      "highlights": [
+        "收录 27 张全套视觉物料",
+        "完整呈现主视觉、排版系统与延展规范"
+      ],
+      "tools": [
+        "Illustrator",
+        "Photoshop",
+        "Brand VI"
+      ],
+      "media": {
+        "coverImage": "./media/jihuayuan/img_001.webp",
+        "coverVideo": null,
+        "images": [
+          {
+            "name": "VI-01.jpg",
+            "label": "VI-01",
+            "url": "./media/jihuayuan/img_001.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-02.jpg",
+            "label": "VI-02",
+            "url": "./media/jihuayuan/img_002.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-03.jpg",
+            "label": "VI-03",
+            "url": "./media/jihuayuan/img_003.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-04.jpg",
+            "label": "VI-04",
+            "url": "./media/jihuayuan/img_004.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-05.jpg",
+            "label": "VI-05",
+            "url": "./media/jihuayuan/img_005.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-06.jpg",
+            "label": "VI-06",
+            "url": "./media/jihuayuan/img_006.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-07.jpg",
+            "label": "VI-07",
+            "url": "./media/jihuayuan/img_007.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-08.jpg",
+            "label": "VI-08",
+            "url": "./media/jihuayuan/img_008.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-09.jpg",
+            "label": "VI-09",
+            "url": "./media/jihuayuan/img_009.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-10.jpg",
+            "label": "VI-10",
+            "url": "./media/jihuayuan/img_010.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-11.jpg",
+            "label": "VI-11",
+            "url": "./media/jihuayuan/img_011.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-12.jpg",
+            "label": "VI-12",
+            "url": "./media/jihuayuan/img_012.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-13.jpg",
+            "label": "VI-13",
+            "url": "./media/jihuayuan/img_013.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-14.jpg",
+            "label": "VI-14",
+            "url": "./media/jihuayuan/img_014.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-15.jpg",
+            "label": "VI-15",
+            "url": "./media/jihuayuan/img_015.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-16.jpg",
+            "label": "VI-16",
+            "url": "./media/jihuayuan/img_016.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-17.jpg",
+            "label": "VI-17",
+            "url": "./media/jihuayuan/img_017.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-18.jpg",
+            "label": "VI-18",
+            "url": "./media/jihuayuan/img_018.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-19.jpg",
+            "label": "VI-19",
+            "url": "./media/jihuayuan/img_019.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-20.jpg",
+            "label": "VI-20",
+            "url": "./media/jihuayuan/img_020.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-21.jpg",
+            "label": "VI-21",
+            "url": "./media/jihuayuan/img_021.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-22.jpg",
+            "label": "VI-22",
+            "url": "./media/jihuayuan/img_022.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-23.jpg",
+            "label": "VI-23",
+            "url": "./media/jihuayuan/img_023.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-24.jpg",
+            "label": "VI-24",
+            "url": "./media/jihuayuan/img_024.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-25.jpg",
+            "label": "VI-25",
+            "url": "./media/jihuayuan/img_025.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-26.jpg",
+            "label": "VI-26",
+            "url": "./media/jihuayuan/img_026.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-27.jpg",
+            "label": "VI-27",
+            "url": "./media/jihuayuan/img_027.webp",
+            "ext": ".webp"
+          }
+        ],
+        "videos": [],
+        "counts": {
+          "images": 27,
+          "videos": 0
+        }
+      }
+    },
+    {
+      "id": "yuechen-yihao",
+      "index": "21",
+      "title": "知识城 · 悦辰壹号",
+      "subtitle": "Brand Visual Identity / Archive",
+      "categories": [
+        "brand"
+      ],
+      "categoryLabel": "品牌 VI 全案",
+      "year": "2025",
+      "client": "知识城 · 悦辰壹号",
+      "role": "品牌视觉设计",
+      "summary": "知识城 · 悦辰壹号完整品牌视觉延展档案，共收录 24 张高清平面作品。",
+      "highlights": [
+        "收录 24 张全套视觉物料",
+        "完整呈现主视觉、排版系统与延展规范"
+      ],
+      "tools": [
+        "Illustrator",
+        "Photoshop",
+        "Brand VI"
+      ],
+      "media": {
+        "coverImage": "./media/yuechen-yihao/img_001.webp",
+        "coverVideo": null,
+        "images": [
+          {
+            "name": "VI-01.jpg",
+            "label": "VI-01",
+            "url": "./media/yuechen-yihao/img_001.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-02.jpg",
+            "label": "VI-02",
+            "url": "./media/yuechen-yihao/img_002.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-03.jpg",
+            "label": "VI-03",
+            "url": "./media/yuechen-yihao/img_003.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-04.jpg",
+            "label": "VI-04",
+            "url": "./media/yuechen-yihao/img_004.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-05.jpg",
+            "label": "VI-05",
+            "url": "./media/yuechen-yihao/img_005.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-06.jpg",
+            "label": "VI-06",
+            "url": "./media/yuechen-yihao/img_006.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-07.jpg",
+            "label": "VI-07",
+            "url": "./media/yuechen-yihao/img_007.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-08.jpg",
+            "label": "VI-08",
+            "url": "./media/yuechen-yihao/img_008.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-09.jpg",
+            "label": "VI-09",
+            "url": "./media/yuechen-yihao/img_009.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-10.jpg",
+            "label": "VI-10",
+            "url": "./media/yuechen-yihao/img_010.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-11.jpg",
+            "label": "VI-11",
+            "url": "./media/yuechen-yihao/img_011.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-12.jpg",
+            "label": "VI-12",
+            "url": "./media/yuechen-yihao/img_012.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-13.jpg",
+            "label": "VI-13",
+            "url": "./media/yuechen-yihao/img_013.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-14.jpg",
+            "label": "VI-14",
+            "url": "./media/yuechen-yihao/img_014.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-15.jpg",
+            "label": "VI-15",
+            "url": "./media/yuechen-yihao/img_015.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-16.jpg",
+            "label": "VI-16",
+            "url": "./media/yuechen-yihao/img_016.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-17.jpg",
+            "label": "VI-17",
+            "url": "./media/yuechen-yihao/img_017.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-18.jpg",
+            "label": "VI-18",
+            "url": "./media/yuechen-yihao/img_018.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-19.jpg",
+            "label": "VI-19",
+            "url": "./media/yuechen-yihao/img_019.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-20.jpg",
+            "label": "VI-20",
+            "url": "./media/yuechen-yihao/img_020.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-21.jpg",
+            "label": "VI-21",
+            "url": "./media/yuechen-yihao/img_021.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-22.jpg",
+            "label": "VI-22",
+            "url": "./media/yuechen-yihao/img_022.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-23.jpg",
+            "label": "VI-23",
+            "url": "./media/yuechen-yihao/img_023.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-24.jpg",
+            "label": "VI-24",
+            "url": "./media/yuechen-yihao/img_024.webp",
+            "ext": ".webp"
+          }
+        ],
+        "videos": [],
+        "counts": {
+          "images": 24,
+          "videos": 0
+        }
+      }
+    },
+    {
+      "id": "gzct-lingnanfu",
+      "index": "22",
+      "title": "广州城投 · 领南府",
+      "subtitle": "Brand Visual Identity / Archive",
+      "categories": [
+        "brand"
+      ],
+      "categoryLabel": "品牌 VI 全案",
+      "year": "2025",
+      "client": "广州城投 · 领南府",
+      "role": "品牌视觉设计",
+      "summary": "广州城投 · 领南府完整品牌视觉延展档案，共收录 17 张高清平面作品。",
+      "highlights": [
+        "收录 17 张全套视觉物料",
+        "完整呈现主视觉、排版系统与延展规范"
+      ],
+      "tools": [
+        "Illustrator",
+        "Photoshop",
+        "Brand VI"
+      ],
+      "media": {
+        "coverImage": "./media/gzct-lingnanfu/img_001.webp",
+        "coverVideo": null,
+        "images": [
+          {
+            "name": "VI-02.jpg",
+            "label": "VI-02",
+            "url": "./media/gzct-lingnanfu/img_001.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-03.jpg",
+            "label": "VI-03",
+            "url": "./media/gzct-lingnanfu/img_002.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-04.jpg",
+            "label": "VI-04",
+            "url": "./media/gzct-lingnanfu/img_003.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-05.jpg",
+            "label": "VI-05",
+            "url": "./media/gzct-lingnanfu/img_004.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-06.jpg",
+            "label": "VI-06",
+            "url": "./media/gzct-lingnanfu/img_005.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-07.jpg",
+            "label": "VI-07",
+            "url": "./media/gzct-lingnanfu/img_006.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-08.jpg",
+            "label": "VI-08",
+            "url": "./media/gzct-lingnanfu/img_007.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-09.jpg",
+            "label": "VI-09",
+            "url": "./media/gzct-lingnanfu/img_008.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI-10.jpg",
+            "label": "VI-10",
+            "url": "./media/gzct-lingnanfu/img_009.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI配合海报-1.jpg",
+            "label": "VI配合海报-1",
+            "url": "./media/gzct-lingnanfu/img_010.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI配合海报-2.jpg",
+            "label": "VI配合海报-2",
+            "url": "./media/gzct-lingnanfu/img_011.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI配合海报-3.jpg",
+            "label": "VI配合海报-3",
+            "url": "./media/gzct-lingnanfu/img_012.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "VI配合海报-4.jpg",
+            "label": "VI配合海报-4",
+            "url": "./media/gzct-lingnanfu/img_013.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "绿建三星海报-1.jpg",
+            "label": "绿建三星海报-1",
+            "url": "./media/gzct-lingnanfu/img_014.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "绿建三星海报-2.jpg",
+            "label": "绿建三星海报-2",
+            "url": "./media/gzct-lingnanfu/img_015.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "绿建三星海报-3.jpg",
+            "label": "绿建三星海报-3",
+            "url": "./media/gzct-lingnanfu/img_016.webp",
+            "ext": ".webp"
+          },
+          {
+            "name": "绿建三星海报-4.jpg",
+            "label": "绿建三星海报-4",
+            "url": "./media/gzct-lingnanfu/img_017.webp",
+            "ext": ".webp"
+          }
+        ],
+        "videos": [],
+        "counts": {
+          "images": 17,
+          "videos": 0
+        }
+      }
+    }
+  ]
+}

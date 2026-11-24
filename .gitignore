@@ -1,0 +1,5 @@
+# Local runtime analytics log
+analytics.json
+*.log
+.DS_Store
+Thumbs.db
