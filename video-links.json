@@ -1,37 +1,37 @@
 {
-  "_说明": "将你的视频上传到 B站后，把对应的 BV 号（例如 BV1xx411c7mD）填入下面的 bvid 字段，然后运行 py build_static.py 即可自动生成支持国内秒开播放的公网发布版。",
+  "_说明": "已自动同步 B站主页（晓韬老湿 / UID 341717701）全部 19 条投稿视频 BV 号。",
   "projects": {
     "guangzhou-window": [
-      { "label": "AI 短片 · 总裁的一天", "bvid": "" },
-      { "label": "配套视频 · 会所", "bvid": "" },
-      { "label": "配套视频 · 停机坪", "bvid": "" },
-      { "label": "配套视频 · 国际文化交流中心", "bvid": "" },
-      { "label": "配套视频 · 游艇码头", "bvid": "" }
+      { "label": "AI 短片 · 广州之窗-总裁的一天", "bvid": "BV1vByozUEpz" },
+      { "label": "配套视频 · 会所", "bvid": "BV1UuyozBEZv" },
+      { "label": "配套视频 · 停机坪", "bvid": "BV1SuyozBE5R" },
+      { "label": "配套视频 · 国际文化交流中心", "bvid": "BV1SuyozBEwd" },
+      { "label": "配套视频 · 游艇码头", "bvid": "BV1gMyozgE4e" }
     ],
     "xiangshan-bay": [
-      { "label": "AI TVC · 《香山心 无止境》", "bvid": "" }
+      { "label": "AI TVC · 《香山心 无止境》", "bvid": "BV1vByozUEMY" }
     ],
     "jinsha-metropolis": [
-      { "label": "AI 品牌短剧 · 第一集", "bvid": "" },
-      { "label": "AI 品牌短剧 · 第二集", "bvid": "" },
-      { "label": "新形象系列海报 1-3", "bvid": "" }
+      { "label": "AI 品牌短剧 · 第一集", "bvid": "BV1vByozUEuY" },
+      { "label": "AI 品牌短剧 · 第二集", "bvid": "BV1vByozUEav" },
+      { "label": "新形象系列动态海报 · 01", "bvid": "BV1SMyozuEVD" },
+      { "label": "新形象系列动态海报 · 02", "bvid": "BV1SMyozuEri" },
+      { "label": "新形象系列动态海报 · 03", "bvid": "BV1DMyozgE3f" }
     ],
-    "new-world-xinghui": [
-      { "label": "新世界·星辉 IP 动态亮相短片", "bvid": "" }
-    ],
+    "new-world-xinghui": [],
     "lixun-pazhou-bay": [
-      { "label": "影院投放 30 秒", "bvid": "" },
-      { "label": "兑现力，是琶洲回应期待的唯一语言", "bvid": "" },
-      { "label": "执掌珠江 新经济领袖传世恒产", "bvid": "" }
+      { "label": "影院投放 30 秒", "bvid": "BV1uuyozzErD" },
+      { "label": "兑现力，是琶洲回应期待的唯一语言", "bvid": "BV1UuyozBE4M" },
+      { "label": "执掌珠江 新经济领袖传世恒产", "bvid": "BV1UuyozBE1C" }
     ],
     "greentown-chaowen": [
-      { "label": "绿城·潮闻东方 形象视频", "bvid": "" },
-      { "label": "价值系列视频 1", "bvid": "" },
-      { "label": "价值系列视频 2", "bvid": "" },
-      { "label": "价值系列视频 3", "bvid": "" }
+      { "label": "绿城·潮闻东方 形象视频", "bvid": "BV1UuyozBEb4" },
+      { "label": "价值系列视频 1", "bvid": "BV1uuyozzEBa" },
+      { "label": "价值系列视频 2", "bvid": "BV1UuyozBEbP" },
+      { "label": "价值系列视频 3", "bvid": "BV1uuyozzEkm" }
     ],
     "ai-experimental-0809": [
-      { "label": "AI 先锋影像实验短片（0809）", "bvid": "" }
+      { "label": "概念创作影片", "bvid": "BV1vByozUEug" }
     ]
   }
 }

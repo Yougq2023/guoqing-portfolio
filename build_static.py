@@ -127,7 +127,8 @@ def collect_project_media(project_id: str, dirs: list[str], prefer_cover: str | 
         videos.append({
             "label": item.get("label", "项目影片"),
             "bvid": bvid,
-            "embedUrl": f"https://player.bilibili.com/player.html?bvid={bvid}&high_quality=1&danmaku=0" if bvid else "",
+            "embedUrl": f"https://player.bilibili.com/player.html?bvid={bvid}&high_quality=1&danmaku=0&autoplay=0" if bvid else "",
+            "biliUrl": f"https://www.bilibili.com/video/{bvid}/" if bvid else "",
             "sizeMB": 0
         })
 
@@ -331,18 +332,18 @@ def main():
         {
             "id": "ai-experimental-0809",
             "index": "10",
-            "title": "AI 先锋影像实验短片（0809）",
-            "subtitle": "AI Generative Film / Visual Experiment",
+            "title": "《概念创作影片》· AI 先锋影像短片",
+            "subtitle": "AI Generative Film / Visual Concept",
             "categories": ["ai"],
             "categoryLabel": "AI 视频创作",
             "year": "2026",
             "span": "normal",
-            "client": "AI VISUAL EXPERIMENT",
+            "client": "AI VISUAL CONCEPT",
             "role": "AI 导演 / 视觉生成 / 后期剪辑",
-            "summary": "独立创作的 AI 生成式影像实验作品，探索高对比暗调光影、镜头语言控制与生成式影像节奏剪辑。",
+            "summary": "独立创作的 AI 生成式概念影像作品，探索高对比暗调光影、镜头语言控制与生成式影像节奏剪辑。",
             "highlights": [
                 "全流程 AI 视频生成与后期音画精剪",
-                "支持公网高速在线播放"
+                "已接入 B站 高清源，支持手机与桌面流畅播放"
             ],
             "tools": ["AI Video Generation", "Premiere Pro", "After Effects"],
             "dirs": [],

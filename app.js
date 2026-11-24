@@ -247,7 +247,7 @@
 
     function renderVideoItem(v) {
       if (v.embedUrl) {
-        videoStage.innerHTML = `<iframe src="${v.embedUrl}" scrolling="no" frameborder="0" allowfullscreen="true" style="width:100%;height:100%;border:0;"></iframe>`;
+        videoStage.innerHTML = `<iframe src="${v.embedUrl}" scrolling="no" frameborder="0" allowfullscreen="true" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts allow-popups" style="width:100%;height:100%;border:0;"></iframe>`;
       } else if (v.url) {
         videoStage.innerHTML = `<video id="modalVideoPlayer" controls playsinline preload="metadata" src="${v.url}"></video>`;
       } else {
